@@ -2,7 +2,7 @@ import objects as objs
 import yelp_api
 import google_api
 import util as ut
-import secrets
+import secret
 
 
 def main():
@@ -23,5 +23,5 @@ def main():
     place.add_new_location("Chicago, IL")
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

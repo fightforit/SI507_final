@@ -1,0 +1,69 @@
+<html>
+
+<head>
+    <title>Search</title>
+</head>
+
+<body>
+    <h1>Search</h1>
+    <p>
+        Input the place you want:
+    </p>
+    <!-- create a two inputs for city and state for searching -->
+    <form action="/search" method="post">
+        <input type="text" name="city" placeholder="City (e.g. Ann Arbor)"> <br>
+        <input type="text" name="state" placeholder="State (e.g. MI)"> <br>
+        <input type="text" name="food_type" placeholder="Food Type (e.g. Korean)">
+        <input type="submit" value="Search">
+    </form>
+    <p>
+        Return to the <a href="/">home page</a>
+    </p>
+    <p>
+        <!-- if food_type is not "" print the food_type using html-->
+        {% if food_type != "" %}
+        <b>Searching for {{food_type}} restaurants in {{city}}, {{state}}</b> <br>
+    <ul>
+        {% for restaurant in restaurants %}
+        {% for key, value in restaurant.items() %}
+
+        {% if key == "name" %}
+        <br>
+        <li><b>{{value}}</b></li>
+
+        {% elif key == "reviews" %}
+        <ul>
+            <li>Reviews: <br> </li>
+        </ul>
+        {% for _, reviews in value.items() %}
+        {% for val in reviews %}
+        <ul>
+            <ul>
+                {% for k, v in val.items() %}
+                {% if k in ["time"] %}
+                <li>{{v}} <br> </li>
+                {% elif k in ["text"] %}
+                {{v}} <br>
+                {% else %}
+                {{k.capitalize()}}: {{v}} <br>
+                {% endif %}
+                {% endfor %}
+            </ul>
+        </ul>
+        {% endfor %}
+        {% endfor %}
+
+        {% else %}
+        <ul>
+            <li>{{key.capitalize()}}: {{value}} <br> </li>
+        </ul>
+        {% endif %}
+        {% endfor %}
+        {% endfor %}
+    </ul>
+    {% endif %}
+    </p>
+
+</body>
+
+</html>

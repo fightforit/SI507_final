@@ -1,11 +1,10 @@
-
 import argparse
 import json
 import pprint
 import requests
 import sys
 import urllib
-from secrets import *
+from secret import *
 import time
 
 try:
@@ -20,13 +19,13 @@ except ImportError:
     from urllib import urlencode
 
 # Base url
-API_HOST = 'https://api.yelp.com'
-SEARCH_PATH = '/v3/businesses/search'
-BUSINESS_PATH = '/v3/businesses/'  # Business ID will come after slash.
+API_HOST = "https://api.yelp.com"
+SEARCH_PATH = "/v3/businesses/search"
+BUSINESS_PATH = "/v3/businesses/"  # Business ID will come after slash.
 
 # Defaults for our simple example.
-DEFAULT_TERM = 'dinner'
-DEFAULT_LOCATION = 'Naples, FL'
+DEFAULT_TERM = "dinner"
+DEFAULT_LOCATION = "Naples, FL"
 SEARCH_LIMIT = 10
 
 
@@ -43,14 +42,14 @@ def request(host, path, api_key, url_params=None):
         HTTPError: An error occurs from the HTTP request.
     """
     url_params = url_params or {}
-    url = '{0}{1}'.format(host, quote(path.encode('utf8')))
+    url = "{0}{1}".format(host, quote(path.encode("utf8")))
     headers = {
-        'Authorization': 'Bearer %s' % api_key,
+        "Authorization": "Bearer %s" % api_key,
     }
 
-    print(u'Querying {0} ...'.format(url))
+    print("Querying {0} ...".format(url))
 
-    response = requests.request('GET', url, headers=headers, params=url_params)
+    response = requests.request("GET", url, headers=headers, params=url_params)
 
     return response.json()
 
@@ -65,9 +64,9 @@ def search(api_key, term, location):
     """
 
     url_params = {
-        'term': term.replace(' ', '+'),
-        'location': location.replace(' ', '+'),
-        'limit': SEARCH_LIMIT
+        "term": term.replace(" ", "+"),
+        "location": location.replace(" ", "+"),
+        "limit": SEARCH_LIMIT,
     }
     return request(API_HOST, SEARCH_PATH, api_key, url_params=url_params)
 
@@ -104,10 +103,10 @@ def query_api(term, location):
     """
     response = search(YELP_API_KEY, term, location)
 
-    businesses = response.get('businesses')
+    businesses = response.get("businesses")
 
     if not businesses:
-        print(u'No businesses for {0} in {1} found.'.format(term, location))
+        print("No businesses for {0} in {1} found.".format(term, location))
         return
 
     return businesses
@@ -120,7 +119,7 @@ def parse_reviews(reviews):
             parse_review = {
                 "time": review["time_created"],
                 "text": review["text"],
-                "rating": review["rating"]
+                "rating": review["rating"],
             }
             review_list.append(parse_review)
     else:
@@ -152,8 +151,10 @@ def parse_query(info_json):
                 "lat": result["coordinates"]["latitude"],
                 "lng": result["coordinates"]["longitude"],
                 "rating": {"Yelp": result["rating"], "Google": None},
-                "reviews": {"Yelp": parse_reviews(get_reviews(YELP_API_KEY, result["id"])),
-                            "Google": []}
+                "reviews": {
+                    "Yelp": parse_reviews(get_reviews(YELP_API_KEY, result["id"])),
+                    "Google": [],
+                },
             }
             try:
                 parse_info["price"] = {"Yelp": result["price"], "Google": None}
@@ -169,8 +170,10 @@ def parse_query(info_json):
             "lat": info_json["coordinates"]["latitude"],
             "lng": info_json["coordinates"]["longitude"],
             "rating": {"Yelp": info_json["rating"], "Google": None},
-            "reviews": {"Yelp": parse_reviews(get_reviews(YELP_API_KEY, info_json["id"])),
-                        "Google": []}
+            "reviews": {
+                "Yelp": parse_reviews(get_reviews(YELP_API_KEY, info_json["id"])),
+                "Google": [],
+            },
         }
         try:
             parse_info["price"] = {"Yelp": info_json["price"], "Google": None}
@@ -185,5 +188,5 @@ def main():
     query_api("pizza", DEFAULT_LOCATION)
 
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     main()

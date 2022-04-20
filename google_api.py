@@ -2,7 +2,7 @@ import requests
 import json
 
 # import the secret keys
-from secrets import *
+from secret import *
 
 # request api
 
@@ -15,10 +15,11 @@ def find_place(place="Ann Arbor"):
         "input": place,
         "inputtype": "textquery",
         "fields": "name,place_id,formatted_address,geometry",
-        "key": GOOGLE_API_KEY
+        "key": GOOGLE_API_KEY,
     }
     response = requests.get(base_url, params=params)
     return response.json()
+
 
 # parse place
 def parse_place(place_json):
@@ -34,6 +35,7 @@ def parse_place(place_json):
         infos.append(info)
     return infos
 
+
 ###########################################################################################
 # get nearby restaurant search request
 def find_nearby(lat, lng, radius=1000):
@@ -43,10 +45,11 @@ def find_nearby(lat, lng, radius=1000):
         "location": f"{lat},{lng}",
         "radius": radius,
         "type": "restaurant",
-        "key": GOOGLE_API_KEY
+        "key": GOOGLE_API_KEY,
     }
     response = requests.get(base_url, params=params)
     return response.json()
+
 
 # parse nearby restaurant search
 def parse_nearby(nearby_json, food_style="Null", food_type="Null"):
@@ -73,9 +76,10 @@ def parse_nearby(nearby_json, food_style="Null", food_type="Null"):
             info["price_level"] = place["price_level"]
         except:
             info["price_level"] = "Null"
-        
+
         infos.append(info)
     return infos
+
 
 ###########################################################################################
 # text search request
@@ -86,10 +90,11 @@ def find_text(lat, lng, query, radius=1000):
         "location": f"{lat},{lng}",
         "radius": radius,
         "query": query,
-        "key": GOOGLE_API_KEY
+        "key": GOOGLE_API_KEY,
     }
     response = requests.get(base_url, params=params)
     return response.json()
+
 
 # parse text search
 def parse_text(text_json, query=None, food_style="Null", food_type="Null"):
@@ -97,6 +102,7 @@ def parse_text(text_json, query=None, food_style="Null", food_type="Null"):
         return parse_nearby(text_json, query, query)
     else:
         return parse_nearby(text_json, food_style, food_type)
+
 
 ###########################################################################################
 # place details request
@@ -106,10 +112,11 @@ def find_details(place_id):
     params = {
         "place_id": place_id,
         "fields": "name,rating,user_ratings_total,formatted_address,geometry,price_level,types,opening_hours,review,url",
-        "key": GOOGLE_API_KEY
+        "key": GOOGLE_API_KEY,
     }
     response = requests.get(base_url, params=params)
     return response.json()
+
 
 # parse place details
 def parse_details(details_json, place_id):
