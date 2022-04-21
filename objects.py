@@ -70,6 +70,10 @@ class Place:
             # Find the restaurant using text search
             google_resp = google_api.find_text(
                 restaurant["lat"], restaurant["lng"], restaurant["name"]+" "+restaurant["address"])
+
+            if not google_resp["results"]:
+                continue
+
             restaurant_id = google_resp["results"][0]["place_id"]
             restaurant_info = google_api.find_details(restaurant_id)
 

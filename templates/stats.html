@@ -2,6 +2,7 @@
 
 <head>
     <title>Stats</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 </head>
 
 <body>
@@ -27,6 +28,52 @@
         </tr>
         {% endfor %}
     </table>
+    <div>
+        <canvas id="myChart"></canvas>
+    </div>
+
+    <script>
+        const labels = [
+            {% for row in stats_food[1:] %}
+        "{{ row[0] }}",
+            {% endfor %}
+        ];
+
+        const data = {
+            labels: labels,
+            datasets: [{
+                label: 'Yelp Rating',
+                backgroundColor: 'rgb(255, 99, 132)',
+                borderColor: 'rgb(255, 99, 132)',
+                data: [
+                    {% for row in stats_food[1:] %}
+        "{{ row[1] }}",
+            {% endfor %}
+                ],
+            }, {
+            label: 'Google Rating',
+                backgroundColor: 'rgb(54, 162, 235)',
+                    borderColor: 'rgb(54, 162, 235)',
+                        data: [
+                            {% for row in stats_food[1:] %}
+        "{{ row[2] }}",
+            {% endfor %}
+                ],
+            }]
+        };
+
+        const config = {
+            type: 'line',
+            data: data,
+            options: {}
+        };
+
+        const myChart = new Chart(
+            document.getElementById('myChart'),
+            config
+        );
+    </script>
+
 </body>
 
 </html>

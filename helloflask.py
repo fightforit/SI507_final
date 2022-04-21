@@ -46,7 +46,7 @@ def search():
 
     return render_template(
         "search.html",
-        city=" ".join(city),
+        city=city,
         state=state,
         food_type=food_type,
         search_str=search_string,
