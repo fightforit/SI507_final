@@ -7720,5 +7720,707 @@
         "Sunday: 11:00 AM \u2013 11:00 PM"
       ]
     }
+  ],
+  "latin": [
+    {
+      "name": "Yuca Bar",
+      "address": "111 Avenue A, New York, NY 10009",
+      "phone": "(212) 982-9533",
+      "lat": 40.7262,
+      "lng": -73.9836,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.3
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-31 12:04:31",
+            "text": "Went here with a few friends to catch up over food and drinks and it was definitely a vibe. \n\nThe hostess was so accommodating we were a party of at least...",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-28 19:46:42",
+            "text": "I've always wanted to try this spot for Happy Hour and so glad I did!! If I remember correctly, it was $8 drinks and there were so many flavors. Loved the...",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-05 06:49:00",
+            "text": "Did not come for food. Only came to dance at night. Fantastic selection of Latin music. I am not much of a great dancer but people will approach you to...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-21 08:58:58",
+            "text": "Place was really busy on a saturday afternoon. We ordered tacos, and steak & eggs, with rice and beans. food was really good! Service was also good considering how busy the restaurant was, liked the festive ambiance. The only issue for me was the music being too loud for my taste.",
+            "rating": 4
+          },
+          {
+            "time": "2022-02-24 10:48:46",
+            "text": "Amazing food and excellent service! Our waitress was amazing, always checking on us making sure we were happy with everything. The drinks were delicious and not watered down. I\u2019ll definitely be coming back here",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-20 10:21:01",
+            "text": "I loved this place. We had a great girls night and danced all night. A cocktail is like 13$, beers 9$ - so not too bad! Music was fantastic.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-10 15:44:32",
+            "text": "This place is great! Good tasting strong drinks, delicious tacos and at a good price especially on Tuesdays.\n\nUpdate: we went back the following week. Knocking a star off because the host/manager maybe didn't want to give us a table for 4, when it was 2 of us. He gave us attitude over nothing. Plenty of other open tables available and they were trying to sit us literally right next to another couple when we were trying to social distance. No one even sat at the table we wanted the whole time we were there.",
+            "rating": 3
+          },
+          {
+            "time": "2022-01-13 05:22:33",
+            "text": "Good food good service not overly pricey! Good drinks also! Wait staff was excellent! Will be coming back here!!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 11:00 PM",
+        "Tuesday: 11:00 AM \u2013 11:00 PM",
+        "Wednesday: 11:00 AM \u2013 11:00 PM",
+        "Thursday: 11:00 AM \u2013 2:30 AM",
+        "Friday: 11:00 AM \u2013 2:00 AM",
+        "Saturday: 10:00 AM \u2013 2:00 AM",
+        "Sunday: 10:00 AM \u2013 11:00 PM"
+      ]
+    },
+    {
+      "name": "Leyenda",
+      "address": "221 Smith St, Brooklyn, NY 11201",
+      "phone": "(347) 987-3260",
+      "lat": 40.68431,
+      "lng": -73.99197,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.6
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-04-11 19:16:03",
+            "text": "I'm not sure I would make the trek out here again specifically for this restaurant, but it certainly has all the makings of a top-notch neighborhood...",
+            "rating": 4
+          },
+          {
+            "time": "2022-04-05 13:22:57",
+            "text": "I've walked by this place forever- but after Jolie Cantina is no longer, where does one get a decent Margarita?  NOT HERE! We were promptly met at the...",
+            "rating": 1
+          },
+          {
+            "time": "2022-03-13 05:08:05",
+            "text": "Wow. This was a real cool cocktail experience. \nI ordered their \"draft\" tequila and homemade grapefruit soda/splash of lime drink. Had 2 and it was...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-12 18:50:35",
+            "text": "This place is just great. We had 5 dishes and 3 cocktails and every single thing was incredible. Delicious, unique, rich and complex in flavor, the right amount of spicy, excellent combinations of flavors and textures. Highly recommended.",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-11 20:02:29",
+            "text": "What a fantastic gem! Excellent agave spirit selection but it doesn't stop there. So many great spirits and cocktails and the food....magnificent! What an incredible experience!! Would absolutely visit again",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-08 17:53:10",
+            "text": "Awesome, lively spot with great cocktails, reasonably priced and delicious tacos, and super friendly staff. Gets pretty crowded on weekends, but it's worth the wait!",
+            "rating": 5
+          },
+          {
+            "time": "2021-04-13 11:09:02",
+            "text": "Great place to get dinner and drinks. Cocktails are amazing, if you can splurge to get one, they never disappoint, food and service is good too! Indoor, back patio and outdoor seating in the front of the place",
+            "rating": 5
+          },
+          {
+            "time": "2021-12-13 12:42:25",
+            "text": "I went on Friday 12/10.\n\nAlways incredible cocktails here, but their Christmas event is adorable. The themed drinks taste great & all come in themed glasses.\n\nI felt kinda bad for the bartender, they were the only one making drinks (complicated ones) for a packed house. They absolutely killed it, they were so fast and I never waited, but it looked very stressful",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 5:00 PM \u2013 12:00 AM",
+        "Tuesday: 5:00 PM \u2013 12:00 AM",
+        "Wednesday: 5:00 PM \u2013 12:00 AM",
+        "Thursday: 5:00 PM \u2013 12:00 AM",
+        "Friday: 5:00 PM \u2013 1:00 AM",
+        "Saturday: 1:00 PM \u2013 1:00 AM",
+        "Sunday: 1:00 PM \u2013 12:00 AM"
+      ]
+    },
+    {
+      "name": "Coppelia",
+      "address": "207 W 14th St, New York, NY 10011",
+      "phone": "(212) 858-5001",
+      "lat": 40.7389111700125,
+      "lng": -73.9999985153443,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.5
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-04-08 15:26:31",
+            "text": "We landed in New York with Coppelia as one of our must see destinations and we were not wrong for that. \n\nYou smell the food wafting up the street as you...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-04 12:05:22",
+            "text": "Been twice in the last two weeks. \n\nTalk about a New York City Institution. You can catch me in one of the back tables with the crew.\n\nA mix of TexMex,...",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-06 13:47:29",
+            "text": "Wonderful find on West 14th Street.  Dined there last night and every single dish was authentic and delicious!  Had Lomo Saltado, Ropa Viejo, Cubano...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2021-12-06 18:32:58",
+            "text": "We eat here at least once a week. LOVE the imaginative Latino menu. The quality is top notch and priced considerably lower than any Greek diner in the hood.\nIt\u2019s Service with a smile.\nJust make sure your party arrives all at the same time so they will seat you. Even at peak times, the wait is never more than 20 minutes.\nAND....it\u2019s open 24 hours.\n\nUPDATE during the Pandemic... 2021 and this place still rocks. Food is consistently good at any meal and very affordable which is important to me. The staff here treats you like family even after a long absence.\nIt feels good to be home.",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-20 11:37:12",
+            "text": "My partner and I started coming here after moving to Chelsea in June. The food is delicious, but the STAFF is why we continue to come back. Both Jennifer and Pedro offer consistently exceptional service. They've remembered our orders and our faces since the first time we came in. Pedro always greets with a smile and has such a lovely sense of humor and Jessica has an equally warm affect and is a wonderful conversationalist. Would recommend to ANYONE looking for a great brunch spot in Chelsea on a budget. The Copellia crew will make you feel a part of their family. Well worth every penny spent!",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-20 10:58:02",
+            "text": "Been dining here regularly for almost 10 years. Food is fantastic, but what's more is the service from Pedro and the amazing staff! I think Pedro might be the most pleasant person in all of NYC!! Always a smile, even the mask can't hide, and he treats his customers as if they were family! I've never seen the man have an off day, which is why I felt it was so important to recognize with a review! (I never do reviews). \u00a1Gracias!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-02 20:21:03",
+            "text": "Good food and cozy. The price is fairly reasonable, the location is great for me ans the service is friendly. Don't order coffee though. I think that they charge too much for that especially this is not their specialty.",
+            "rating": 4
+          },
+          {
+            "time": "2022-02-12 16:38:56",
+            "text": "Today went on a brunch date and the guy brought me to here and he and I had the worst service from Pedro. His attitude, disrespect, and absolutely no service etiquette what so ever. We spoke to an amazing server and tried to get her to serve us because Pedro was going out his way to not care. We spoke to the other server and gave her the tip because it wouldn\u2019t have been fair to not tip the other staff who were busting their tales with grace. Pedro ruined our experience and will not go back unless he is gone.",
+            "rating": 1
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: Open 24 hours",
+        "Tuesday: Open 24 hours",
+        "Wednesday: Open 24 hours",
+        "Thursday: Open 24 hours",
+        "Friday: Open 24 hours",
+        "Saturday: Open 24 hours",
+        "Sunday: Open 24 hours"
+      ]
+    },
+    {
+      "name": "Bogota Latin Bistro",
+      "address": "141 5th Ave, Brooklyn, NY 11217",
+      "phone": "(718) 230-3805",
+      "lat": 40.678165,
+      "lng": -73.978976,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.3
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-04-11 12:56:40",
+            "text": "It has been more than 4 years since my last visit to Bogota Bistro. They kept it real!\n\nThe coconut mojitos are still delicious. If you like a spicy drink,...",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-09 06:21:10",
+            "text": "Great place. We arrived here pretty late it was like 10PM. They gracefully sat us down. And served us\n\nThe coconut mojito was fantastic. We also had the...",
+            "rating": 4
+          },
+          {
+            "time": "2022-02-08 20:11:48",
+            "text": "If you're looking for a quality happy hour near Barclay's center, this is the spot. Their drinks are really strong and cheap, ranges around $8-$10. I was...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2021-08-14 14:34:34",
+            "text": "Delicious shrimp tacos and drinks. But I\u2019m writing this review basically for the dessert. The tres leches cake was out of this world. Anyone who tried a bite wanted more. Wish I ordered more. Definitely a fun place to catch up with friends or family.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-25 11:41:17",
+            "text": "One of the best options for the area where you don\u2019t have to break the bank! Came here for happy hour and got some amazing drinks for a great price. The food was great and the vibe was perfect - can\u2019t wait to come back. Will definitely be my go to option in the area if I\u2019m looking for a fun place to get some great food and drinks.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-14 10:23:58",
+            "text": "absolutely excellent. great drinks, delicious authentic food (that\u2019s ACTUALLY gluten free safe), and laid back service. fun ambiance and a lengthy menu! highly recommend and will be back!",
+            "rating": 5
+          },
+          {
+            "time": "2021-08-17 13:48:17",
+            "text": "It was just ok, and a bit pricey for what it was. The Rotisserie chicken was oh so very dry. The rest of the food was fine, nothing else. Not really like it tastes in Colombia. The service was good. In my opinion is not worth the trip and I probably won't go back.",
+            "rating": 2
+          },
+          {
+            "time": "2022-03-12 00:18:20",
+            "text": "I love this place! I have been coming here for years! The staff is super nice and accommodating and friendly. Also the food is amazing! A little bit pricey, but worth it. The empanadas, especially the steak and guava are my absolute favorites! Also the ribs are amazing and flavorful and fall right off the bone! Highly recommended!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 12:00 AM",
+        "Tuesday: 11:00 AM \u2013 12:00 AM",
+        "Wednesday: 11:00 AM \u2013 12:00 AM",
+        "Thursday: 11:00 AM \u2013 12:00 AM",
+        "Friday: 11:00 AM \u2013 1:00 AM",
+        "Saturday: 10:00 AM \u2013 1:00 AM",
+        "Sunday: 10:00 AM \u2013 11:00 PM"
+      ]
+    },
+    {
+      "name": "Tabar\u00e9",
+      "address": "221 S 1st St, Brooklyn, NY 11211",
+      "phone": "(347) 335-0187",
+      "lat": 40.713046,
+      "lng": -73.958968,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.6
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-18 05:16:56",
+            "text": "I visited on 3/18. Service is amazing, vibes are too! Great date night spot. The interior is just so cozy. The back room has heaters that keep you warm for...",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-07 09:21:35",
+            "text": "First time trying Uruguayan food! We came here on a Friday night. We were able to get a reservation for 6 people the day of so that was pretty lucky of us....",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-24 14:42:55",
+            "text": "Really cute spot in Williamsburg that has the most amazing brunch deal! For $20 you get an entree, a drink (I got a Bloody Mary, my friend got a glass of...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-02-26 20:59:00",
+            "text": "Wonderful food.  Really flavorful and balanced. First time trying Uruguayan cuisine and won't be the last.  Service was great, we were there without a reservation (would highly recommend making one though); we were checked on and everything was prompt.  Just make sure you bring cash or your AMEX, and a empty belly.",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-20 08:32:19",
+            "text": "If you\u2019re looking to eat high quality beef at a great price, this is your spot. It\u2019s so tender and flavorful. Cocktails are also excellent! I\u2019d recommend trying the beets salad as well. Their space is cozy and cute.",
+            "rating": 5
+          },
+          {
+            "time": "2021-08-14 19:38:30",
+            "text": "this is a hidden gem, really I did not know existed and been living in the area for 5 years, the food service and ambience are too good. Bruno was my waiter and he did a great job!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-11 17:14:12",
+            "text": "Lovely little local gem in Williamsburg!\n\nVisiting from London, we've never had Uruguayan food before before so this was a delightful find. The empanadas were heavenly and cocktails delicious.\n\nMost of all though, the ambiance of the place is very cool. Loved it!\n\nNote: They only take Amex or cash - so come prepared if you're a foreign visitor!",
+            "rating": 5
+          },
+          {
+            "time": "2021-12-30 20:21:47",
+            "text": "Great food. Great atmosphere. Great service. Great prices. Can\u2019t wait to go again.",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 5:00 \u2013 11:00 PM",
+        "Tuesday: 5:00 \u2013 11:00 PM",
+        "Wednesday: 5:00 \u2013 11:00 PM",
+        "Thursday: 5:00 \u2013 11:00 PM",
+        "Friday: 5:00 PM \u2013 12:00 AM",
+        "Saturday: 12:00 PM \u2013 12:00 AM",
+        "Sunday: 12:00 \u2013 11:00 PM"
+      ]
+    },
+    {
+      "name": "Las Santas",
+      "address": "572 Fulton St, Brooklyn, NY 11217",
+      "phone": "(718) 222-5919",
+      "lat": 40.6882,
+      "lng": -73.97953,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.3
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-05 13:56:51",
+            "text": "Went on a Friday nite ...staff was great nice ambiance drinks were great, food was excellent very delicious.  It was a tough day for me. I told the waiter...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-18 11:33:01",
+            "text": "My boyfriend and I came in on a Monday evening for date night and this place was *chefs kiss*! We didn't have a reservation but we're seated immediately;...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-03 12:04:40",
+            "text": "WOW where can I begin?? \n\nFor starters, I've officially decided this is my favorite restaurant as of right now. Reservations were easy to make, we arrived a...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-29 17:57:55",
+            "text": "Great place to meet. Plenty of room to eat and have a meeting. Loved the ambiancebut would have liked more light on my food. When the food is this good and well-prepared, it is nice to see it in allies visual glory. The fish tacos were a heavenly surprise.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-29 19:33:05",
+            "text": "I\u2019ve been coming to this place regularly (usually weekly) for the past year. Loved to meet up with friends after work and/ or watch sports. It has gone downhill. The current management is pathetic. With a simple question we received false statements. The other patrons in the place were kind and the waitstaff was efficient. Food has changed and the only item that remains decent is the guacamole. Not recommended. Will find another spot for tacos and sports. It was that disappointing.",
+            "rating": 1
+          },
+          {
+            "time": "2022-03-22 09:42:57",
+            "text": "It was great! We were a large party of 13.  The environment was awesome!! Food and drinks were great! The service was stellar! Very fast and accurate! All around great experience, would definitely recommend!!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-20 01:36:59",
+            "text": "I'm definitely coming here again! Randomly went here with my girls for a few birthday drinks and snacks! Please do make a reservation of you have a large party (5 or more people). Rather be safe than sorry just in case, as this seems to be a fairly popular restaurant. Weekends during the winter may get a little crowded, although they do have seating outside (would probably only recommend during the Summer). Staff were accommodating and friendly, made some great suggestions for drinks, and treated us to a round of shots (for the birthday girls ;) )! They also have brunch drink specials (Monday through Thursday, 4-10pm, Saturday and Sunday 12-4pm)! I loved the indoor decor, feels very intimate and cozy! If you love Mexican, I'd definitely recommend giving them a try! Drinks aren't too bad price wise, if you enjoy brunch... They have a variety of options that include prosecco! Their appetizers and entrees are fairly priced as well.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-27 20:46:54",
+            "text": "The vibe is cool.  The ambience is nice. It's a good place for friends or a date. I had the salmon with the naked sweet potatoes and asparagus.  It was a popular dish at my table. I also had yuca fries which were my favorite.  Shrimp appetizer is yummy.  The chicken nachos were tasty. The drinks are good. Our waiter was knowledgeable and attentive.  Check this place out. It's easy to get to but parking will be hard just as a fyi.",
+            "rating": 4
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": null
+      },
+      "opening_hours": [
+        "Monday: 4:00 \u2013 10:00 PM",
+        "Tuesday: 4:00 \u2013 10:00 PM",
+        "Wednesday: 4:00 \u2013 10:00 PM",
+        "Thursday: 4:00 \u2013 10:00 PM",
+        "Friday: 3:00 \u2013 11:00 PM",
+        "Saturday: 12:00 \u2013 11:00 PM",
+        "Sunday: 12:00 \u2013 10:00 PM"
+      ]
+    },
+    {
+      "name": "\u00d1a\u00f1o Ecuadorian Kitchen",
+      "address": "691 10th Ave, New York, NY 10036",
+      "phone": "(646) 649-4678",
+      "lat": 40.7631,
+      "lng": -73.99335,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.5
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-08 09:54:44",
+            "text": "This place is ELITE\n\nIf you want to try Ecuadorian food, this plate was a perfect combo of vibes & authenticity\n\nThe portions were fire, the prices were...",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-28 09:38:42",
+            "text": "Nice little family-run spot for authentic Ecuadorian cuisine. I ordered the Seco de Pollo (supposedly the most authentic dish), which was just as advertised...",
+            "rating": 4
+          },
+          {
+            "time": "2022-04-17 13:48:19",
+            "text": "Nopes would not recommend this place, really overpriced, paid 10$ for a mini beer, ?? !! It was half of a glass literary it was so small.\nincluding  a 20%...",
+            "rating": 1
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-02 23:34:10",
+            "text": "Tasty foods\ud83c\uddea\ud83c\udde8 Ingredients were simple, plantains, potatoes and eggs and just so delicious and healthy! Lamb rice was perfect, meat was well cooked and tender, like the sauce very much! Of course Tres leches cake for a perfect ending. Good proportion for two people\ud83d\udc4c Restaurant was cozy, has outdoor seats. The location wasn\u2019t too far from a subway station, easy to access! Prices are lovely too.\nWe were staying too late, just a kindly reminder that to make sure the plates were empty then to clean the table. Still a wonderful late meal~",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-11 20:51:48",
+            "text": "Very cozy (small) restaurant serving excellent Ecuadorian dishes. Service was really friendly and if you are not familiar with this cuisine they were happy to explain and make recommendations. Expect to spend some extra time here waiting on your food as it's all made fresh and I suspect a small kitchen. We had about 45 minutes wait on lunch. However they have a nice drink selection to tide you over with reasonable prices on cocktails and beer.",
+            "rating": 4
+          },
+          {
+            "time": "2021-12-22 14:11:37",
+            "text": "The food is always so good and consistent here! I\u2019ve been going here/getting take out for several years now. It seems they\u2019ve done some rebranding and are trying to be a bit more upscale now. All of the food is $5-$10 more expensive than it used to be. Not a huge deal but a shame they\u2019re making such delicious food less accessible!",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-26 18:46:10",
+            "text": "Every part of our visit was a hit.  Every choice we made was authentic and delicious.  The Bolon was amazing. Definitely coming back.",
+            "rating": 5
+          },
+          {
+            "time": "2020-09-04 22:46:57",
+            "text": "Excellent!!!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 12:00 \u2013 4:00 PM, 5:00 \u2013 9:00 PM",
+        "Tuesday: 12:00 \u2013 4:00 PM, 5:00 \u2013 9:00 PM",
+        "Wednesday: 12:00 \u2013 4:00 PM, 5:00 \u2013 9:00 PM",
+        "Thursday: 12:00 \u2013 4:00 PM, 5:00 \u2013 9:00 PM",
+        "Friday: 12:00 PM \u2013 12:00 AM",
+        "Saturday: 12:00 \u2013 10:00 PM",
+        "Sunday: 12:00 \u2013 4:00 PM"
+      ]
+    },
+    {
+      "name": "Counter & Bodega",
+      "address": "216 7th Ave, New York, NY 10011",
+      "phone": "(646) 870-0785",
+      "lat": 40.74382731329241,
+      "lng": -73.996272,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.5
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-03 18:19:50",
+            "text": "I don't have words to describe how incredible our entire experience was. When we walked in we were immediately greeted and seated. Everyone we came in...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-12 15:22:25",
+            "text": "I've been twice so that's how much I like Counter & Bodega.  Years ago you could find plenty hole in the wall spots to eat Puerto Rican food but it was...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-16 18:04:56",
+            "text": "My friend and I came to this spot because of the good reviews. My best friend and I made a reservation via telephone for 6:30pm. Shortly after the hostess...",
+            "rating": 4
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-30 15:01:30",
+            "text": "My Friend Dennis brought me here saying how great it is.\n\nHe was definitely.\n\nThe food was outstanding.\n\nBetter yet the staff was great. From owner to waitress they make you feel right at home.\n\nI highly recommend this place.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-14 09:14:35",
+            "text": "A recommendation that lived up to the hype. Go and have a great time, everyone was so welcoming. Make sure you get Vickie as the bartender. She is excellent. The food was great and definitely coming back the next time I'm in NYC. Oh yea, go try a shot of Mango Tequila.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-05 20:57:39",
+            "text": "I don't go out to eat often, but this is my 3rd time going here and the first time in the new space, since they've moved. They've carried over the great atmosphere, but to a larger space. It's even better than it was before!\n\nThey offer good variety of different Latin foods to enjoy, with great service.\n\nDo it.",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-04 21:27:35",
+            "text": "We absolutely loved this place which had great vibe!  The staff was super friendly and service top notch! The food was fantastic and fresh! We would definitely go back again and again! Thanks for making a tasty Paloma! \u2764\ufe0f Thank you!",
+            "rating": 5
+          },
+          {
+            "time": "2021-12-15 19:22:20",
+            "text": "The atmosphere was great.\nThe workers were amazing treated us like family...Drinks and food was delicious..\nwill return Again",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": null
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 2:00 PM \u2013 12:00 AM",
+        "Wednesday: 2:00 PM \u2013 12:00 AM",
+        "Thursday: 2:00 PM \u2013 1:00 AM",
+        "Friday: 2:00 PM \u2013 2:00 AM",
+        "Saturday: 2:00 PM \u2013 2:00 AM",
+        "Sunday: 12:00 \u2013 11:00 PM"
+      ]
+    },
+    {
+      "name": "Vida Verde",
+      "address": "248 W 55th St, New York, NY 10019",
+      "phone": "(646) 657-0565",
+      "lat": 40.7649503286729,
+      "lng": -73.9828372257363,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.4
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-04-02 13:37:11",
+            "text": "The brunch is not honored we waited an hour for a seat only to be told that it ends at 5pm regardless of when we got our seat. Usually if you sit down at...",
+            "rating": 3
+          },
+          {
+            "time": "2022-03-05 19:24:07",
+            "text": "Our server Jesus was the best! Very attentive and answered any questions we had. The place was busy but they made sure to come by and help us as much as...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-20 10:29:54",
+            "text": "Wow. This was the best quesadilla I've ever had!\n\nA friend and I were in town for the weekend to see Music Man and wanted to find a dinner spot nearby. We...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-01-24 21:03:30",
+            "text": "Great place to checkout! Loved the vibe and the decor. The staff was friendly, music was good\u2026only thing is that the DJ would switch genres so randomly but overall had a great time. Drinks were good, didn\u2019t try the food but really fun place to go with friends! Would def recommend and go back!\nI have to say the location is also great!!",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-06 15:33:29",
+            "text": "A fun place to enjoy after work drinks and recently used Vida's catering option for a friend's birthday and Bryan the Managing Partner was beyond helpful! He responded back to my questions promptly and even checked on my order pickup. The food was fresh and amazing. They packaged everything so neatly and labeled. Highly recommend Vida Verde to visit as a restaurant and to use for catering!!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-04 12:28:56",
+            "text": "I came here for happy hour and I'm glad that I did. I love the vibes and the drinks were just how I like them...strong! The music playing had me in a good mood and while it was a little loud, it wasn't overbearing where you couldn't hold a conversation. I'll definitely be coming back in the warmer months to check out the rooftop.",
+            "rating": 5
+          },
+          {
+            "time": "2021-12-12 10:20:26",
+            "text": "The food was great and drinks were great. Our waiter she was so so nice and very professional. My friend had a few complaints about the food and the waiter was nice enough to exchange the food and the drink she had which wasn\u2019t as good. I enjoyed the enchiladas with rice and beans. Upon leaving the establishment the employees who check people in practically rushed me and my friend out when all we wanted to take a picture. Both my friend and I are Hispanic and I sort of felt there was special treatment with the white folks entering the establishment. The restaurant has a really nice the Mezcal made me do it sign outside and we wanted to take the picture there. However the way the employees looked at me at my friend was as if we didn\u2019t belong there. (I\u2019d suggest educating some of your employees on how to be Culturally Competent with Customers of all Cultures) and this is coming from a social worker professional.\nBut overall the food was great! And drinks too!",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-29 01:56:55",
+            "text": "Went to Vida Verde for my birthday brunch and the vibes were immaculate! The food was delicious and the bottomless drinks were constantly refilled. The DJ played great music and kept the crowd going the whole time. Would definitely recommend this place!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 4:00 PM \u2013 2:00 AM",
+        "Tuesday: 4:00 PM \u2013 2:00 AM",
+        "Wednesday: 4:00 PM \u2013 2:00 AM",
+        "Thursday: 4:00 PM \u2013 2:00 AM",
+        "Friday: 4:00 PM \u2013 4:00 AM",
+        "Saturday: 12:00 PM \u2013 4:00 AM",
+        "Sunday: 12:00 PM \u2013 2:00 AM"
+      ]
+    },
+    {
+      "name": "Cuba Restaurant and Rum Bar",
+      "address": "222 Thompson St, New York, NY 10012",
+      "phone": "(212) 420-7878",
+      "lat": 40.729084,
+      "lng": -73.998832,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.5
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-26 06:55:27",
+            "text": "Yo, Francis and Kayla were craving a lava cake so this place had one. Ordered two and a calamari app for myself....\n\nGotta say, I was impressed with how...",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-10 15:34:19",
+            "text": "Located in the West Village, this place has a lovely set up for outdoor dining and plenty of seating space inside. My friend and I came here for dinner....",
+            "rating": 4
+          },
+          {
+            "time": "2022-01-14 14:51:40",
+            "text": "We stumbled upon this place on a Friday night and saw the oxtail on the menu (which my husband and I both love) so we went in. We were taken downstairs (the...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2021-07-10 11:01:25",
+            "text": "I went here with a friend around a week ago. It's a small but nice restaurant. You need a reservation and since we didn't have one, we had to eat outside. The waiters were friendly and the food was good. Willing to come here again.",
+            "rating": 4
+          },
+          {
+            "time": "2021-08-16 23:52:35",
+            "text": "Very nice service and good food. Their bottomless brunch drink was definitely worth to try. I had an oxtail stew that was so perfect and filling. Check this out if you are around the neighborhood.",
+            "rating": 5
+          },
+          {
+            "time": "2021-07-25 21:03:41",
+            "text": "My first experience at Cuba and it definitely will not be my last. From the moment of my arrival to the delicious mojitio..to a lovely salad then the rice and beans..everything was fantastic. I'll be back!! I highly recommend!",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-09 16:40:33",
+            "text": "My review came in a couple of months too late but better late than never. I will keep it sweet and simple. Great wine selection, the bartenders were helpful and attentive. They know their stuff. Like the ambiance for a mellow and quiet night to have a good and initmate conversation. The cheese board is just amazing, we were in love with the white cheddar! We would definitely be back.",
+            "rating": 4
+          },
+          {
+            "time": "2021-07-25 03:13:52",
+            "text": "Pretty nice place,  food was delicious and service was friendly\nAt first I thought they were ignoring us because we are the only colored folks in there as I look around. But they turned out to be nice people",
+            "rating": 4
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 12:00 \u2013 10:00 PM",
+        "Tuesday: 12:00 \u2013 10:00 PM",
+        "Wednesday: 12:00 \u2013 10:00 PM",
+        "Thursday: 12:00 \u2013 11:00 PM",
+        "Friday: 12:00 PM \u2013 12:00 AM",
+        "Saturday: 12:00 PM \u2013 12:00 AM",
+        "Sunday: 12:00 \u2013 10:00 PM"
+      ]
+    }
   ]
 }

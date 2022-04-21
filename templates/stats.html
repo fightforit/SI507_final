@@ -1,0 +1,32 @@
+<html>
+
+<head>
+    <title>Stats</title>
+</head>
+
+<body>
+    <h1>Statistics (average rating)</h1>
+    <p>
+        Input the place you want:
+    </p>
+    <!-- create a two inputs for city and state for searching -->
+    <form action="/stats" method="post">
+        <input type="text" name="city" placeholder="City (e.g. Ann Arbor)"> <br>
+        <input type="text" name="state" placeholder="State (e.g. MI)">
+        <input type="submit" value="Search">
+    </form>
+    <p>
+        Return to the <a href="/">home page</a>
+    </p>
+    <table>
+        {% for row in stats_food %}
+        <tr>
+            {% for item in row %}
+            <td> {{item}} </td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </table>
+</body>
+
+</html>

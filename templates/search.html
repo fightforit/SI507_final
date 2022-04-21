@@ -21,7 +21,7 @@
     </p>
     <p>
         <!-- if food_type is not "" print the food_type using html-->
-        {% if food_type != "" %}
+        {% if food_type != "" and city != "" and state != "" %}
         <b>Searching for {{food_type}} restaurants in {{city}}, {{state}}</b> <br>
     <ul>
         {% for restaurant in restaurants %}

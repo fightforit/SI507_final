@@ -106,8 +106,9 @@ class Place:
             None
         """
         if location not in self.restaurants:
-            self.restaurants[location] = {"chinese": None, "italian": None, "american": None, "mexican": None, "japanese": None,
-                                          "korean": None, "thai": None, "vietnamese": None, "french": None, "indian": None, "greek": None}
+            self.restaurants[location] = {"chinese": None}
+            # , "italian": None, "american": None, "mexican": None, "japanese": None,
+            #                               "korean": None, "thai": None, "vietnamese": None, "french": None, "indian": None, "greek": None}
         # set up the restaurant info for the new location
         self.set_restaurants()
 
@@ -125,14 +126,16 @@ class Place:
         # filename for a location in order to update with new food type
         filename = "-".join(location.replace(", ", " ").split(" ")) + ".json"
 
+        print(filename)
         # check if the location exists
         self.add_new_location(location)
 
         # check if the food type exists
-        if food_type not in self.restaurants[location] or self.restaurants[location][food_type] is None:
+        if (not food_type in self.restaurants[location]) or (self.restaurants[location][food_type] is None):
             self.restaurants[location][food_type] = None
             self.update_restaurants_from_yelp(location, food_type)
             self.update_restaurants_from_google(location, food_type)
+            print(f"update {filename}")
             write_json(f"cache/{filename}", self.restaurants[location])
 
 

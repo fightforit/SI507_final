@@ -8134,5 +8134,1399 @@
         "Sunday: 12:00 \u2013 8:00 PM"
       ]
     }
+  ],
+  "african": [
+    {
+      "name": "El Harissa Market Cafe",
+      "address": "1516 N Maple Rd, Ann Arbor, MI 48103",
+      "phone": "(734) 585-0686",
+      "lat": 42.2955801794467,
+      "lng": -83.7801288125661,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.9
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-01-12 12:05:22",
+            "text": "Get yourself over to El Harissa!! You will not regret it. \n\nAll of the food is fantastic and there are lots for people of all dietary restrictions. They...",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-05 19:53:58",
+            "text": "We came here for lunch. I ordered the stuffed mushrooms, Mujaddara and lentil soup. My friend got the soup and egg tagine. Wow! We loved it all. The service...",
+            "rating": 5
+          },
+          {
+            "time": "2020-01-25 20:30:58",
+            "text": "Excited to have another Ann Arbor go-to!  The ambiance is casual and cozy, which is great for an anytime meal.  We came around 5pm and there were plenty of...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-01-16 19:23:11",
+            "text": "Wow. Wow. Wow. Everyone needs some El Harissa Market in their lives. There's something for everyone. I could fall into a vat of the pita bread and garlic sauce and just never want to leave! The Carthage salad is a total gem. The flavors of the whipped feta cheese will haunt your dreams. So good! So many incredible flavors waiting to be discovered. Sweet owners, too!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-03 08:59:30",
+            "text": "We love this place! Incredibly friendly staff and amazing food. I especially love the whipped Feta rosso dip.",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-21 22:46:17",
+            "text": "Exceptional taste of tenesia..... ate couscous... saffron rice. .. chicken Spanish tajeen...haresa dip... eggplant dip....\n\nAmazing food with amazing experience.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-11 14:11:02",
+            "text": "Had a lovely lunch of their lentil soup, which was savory delicious with hints of mint and sweetness- perfect hot fare for a cold late winter day- and the Tunisian egg tangine with harissa sauce, which was very delicious, as well.  Felt great to also patronize an original, unique local business! :-)",
+            "rating": 5
+          },
+          {
+            "time": "2021-02-25 23:03:45",
+            "text": "just \"discovered\" this wonderful eatery in our part of town.  We'll be going back to check out cooking spices and what not.  We had lentil soup, grape leaves, harissa dip,  Chicken Chermoula (tender and succulent with a great sauce to go with) and the Merguez Meatballs and everything was great.  My wife went and picked the stuff up and came back charmed with the place.  Highly recommended.",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 \u2013 7:00 PM",
+        "Wednesday: 12:00 \u2013 7:00 PM",
+        "Thursday: 12:00 \u2013 7:00 PM",
+        "Friday: 12:00 \u2013 7:00 PM",
+        "Saturday: 12:00 \u2013 7:00 PM",
+        "Sunday: 12:00 \u2013 7:00 PM"
+      ]
+    },
+    {
+      "name": "Bon App\u00e9tit Cuisine",
+      "address": "421 W Cross St, Ypsilanti, MI 48197",
+      "phone": "(734) 221-5525",
+      "lat": 42.24556,
+      "lng": -83.61896,
+      "rating": {
+        "Yelp": 5.0,
+        "Google": 4.6
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-01 04:25:16",
+            "text": "It was Friday night, and after a long week at work, the last thing I wanted was to plan a meal and do dishes. My husband suggested takeout, and I...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-13 16:08:02",
+            "text": "The jerk chicken and peanut stew are each some of the best dishes you can get in Washtenaw County of any cuisine",
+            "rating": 5
+          },
+          {
+            "time": "2021-07-25 17:15:23",
+            "text": "This was my first time trying West African food and my God this was a gift to Ypsi! This restaurant has been here for about a month and replaced the old...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-01-30 00:14:39",
+            "text": "The food was very good, slightly spicy but not overdone. We ordered fish and it was great. It\u2019s nice they have a mix of American and African food , they are really doing something unique. The price is very reasonable too.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-13 20:44:08",
+            "text": "Only reason they don't have a 5 star is because of the parking lot. The fataya as well as the dipping sauce.. those two things are everything to me. I find myself thinking about those pretty often. All the food is always hot. Def will keep coming back.",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-04 18:56:46",
+            "text": "Really good food and even better service. Loved the jerk chicken and Lamb stew, I was mistakenly given white rice in my order ( which they graciously corrected ) but even that was delicious  lol everyone can't make perfect white rice! I was happy to find and support this gem in Ypsilanti.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-15 08:15:41",
+            "text": "So delicious! Great place. Great customers service. One if j\u2019y favorite resto.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-16 18:17:22",
+            "text": "Absolutely delicious, ish kabob sandwich slaps, jerk chicken is spicey and tender, fries are impressively crispy and thick. portions are good, prices are cheap, people are friendly 10/10",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 \u2013 9:00 PM",
+        "Wednesday: 12:00 \u2013 9:00 PM",
+        "Thursday: 12:00 \u2013 9:00 PM",
+        "Friday: 12:00 \u2013 9:00 PM",
+        "Saturday: 12:00 \u2013 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Kalahari African Cuisine",
+      "address": "19701 W 7 Mile Rd, Detroit, MI 48219",
+      "phone": "(313) 693-4314",
+      "lat": 42.42935,
+      "lng": -83.23673,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.1
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2019-03-30 14:35:17",
+            "text": "Tasty food, but SLOW! I've eaten here about 4 times. Today, I asked for chicken. They said it will take an hour. So I asked how long it will take for fish....",
+            "rating": 4
+          },
+          {
+            "time": "2018-12-24 22:44:09",
+            "text": "Me and my family ordered from here for our themed X-mas Eve Dinner. This Year We Did A Taste From Each Continent. We Ordered Two Whole Chickens and...",
+            "rating": 5
+          },
+          {
+            "time": "2019-09-13 17:53:23",
+            "text": "Delicious cuisine worth 5 stars but the service is insanely slow. I order my food in advance and try to go pick it up 30-40 minutes after I placed the order...",
+            "rating": 4
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-03 16:57:48",
+            "text": "New to me but food was tasty but it was hot and spicy. Too hot for me. Didn't like couscous. It was hot.",
+            "rating": 4
+          },
+          {
+            "time": "2021-10-09 06:14:49",
+            "text": "Food is pretty good. But BEWARE The African hustle stereotype holds true here!!\nAsk for total multiple times and Pay with cash!! We bought $70 worth of food on card and 10 minutes after leaving was alerted was charged $85 from kalahari restaurant. \ud83e\udd28 what the what?? \ud83d\ude21\ud83d\ude21.  Why my brother why?\nWE spent good with you.\nBASICALLY food is good if that's what you're looking for but BE PREPARED TO  CONFIRM YOUR PRICE AND PAY WITH CASH !!",
+            "rating": 3
+          },
+          {
+            "time": "2021-09-14 18:43:44",
+            "text": "people in the reviews saying this place is bad, must've come here on a bad day cause the food is excellent. seasoned so well, very flavorful and don't forget to get a homemade drink like bissap. delicious \ud83d\ude4f\ud83c\udfff",
+            "rating": 5
+          },
+          {
+            "time": "2021-07-31 01:56:02",
+            "text": "Food is wonderful. Specially for those that wanna try something new",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-06 10:27:40",
+            "text": "Great food kind of pricey",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": null,
+        "Google": null
+      },
+      "opening_hours": [
+        "Monday: 12:00 \u2013 10:00 PM",
+        "Tuesday: 12:00 \u2013 10:00 PM",
+        "Wednesday: 12:00 \u2013 10:00 PM",
+        "Thursday: 12:00 \u2013 10:00 PM",
+        "Friday: 12:00 \u2013 10:00 PM",
+        "Saturday: 12:00 \u2013 10:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Casablanca",
+      "address": "2333 Washtenaw Rd, Ypsilanti, MI 48197",
+      "phone": "(734) 961-7828",
+      "lat": 42.2486,
+      "lng": -83.64943,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.6
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-01-02 09:23:20",
+            "text": "I come here for high quality, fresh, and uplifting food when I'm too tired to cook. The restaurant is tucked in an assuming former Taco Bell. When I was...",
+            "rating": 5
+          },
+          {
+            "time": "2021-09-06 08:00:42",
+            "text": "What a gem of place... the food was very good! It was fresh and with a lot of love. The curb appeal is terrible I almost left and went somewhere else but...",
+            "rating": 5
+          },
+          {
+            "time": "2021-05-02 07:17:18",
+            "text": "Fun fact, did you know that the Detroit Metropolitan area has the highest population of those of Middle Eastern descent in the United States? With that,...",
+            "rating": 4
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-15 06:20:29",
+            "text": "Highly recommend this place. Food was great service was excellent. For being my first time there I was blown away. We were so excited about everything that was set in front of us that we forgot to take pictures.",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-09 17:25:33",
+            "text": "By far most authentic I've had since leaving Texas. The quality is awesome. Service fantastic. 1st time here.  Loved it.",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-06 21:56:00",
+            "text": "I've always wanted to come in and finally did today. The food was excellent, especially the fresh bread they make there. Great service too, we'll definitely be back.",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-31 16:17:52",
+            "text": "My favorite restaurant in Washtenaw county. I send everyone I know here when they ask for a restaurant recommendation. All of the food is delicious, the staff is so kind. I absolutely love the Moroccan coffee they do as well. I can\u2019t say enough nice things about this wonderful family business! A true gem in the community for sure.",
+            "rating": 5
+          },
+          {
+            "time": "2021-12-04 20:53:21",
+            "text": "Honestly, best food i had in a long long time! Very authentic, fresh and you feel like you are eating homemade food! \ud83e\udd70 my new favourite spot in Ypsilanti! Highly recommended!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 8:00 PM",
+        "Tuesday: 11:00 AM \u2013 8:00 PM",
+        "Wednesday: 11:00 AM \u2013 8:00 PM",
+        "Thursday: 11:00 AM \u2013 8:00 PM",
+        "Friday: 11:00 AM \u2013 8:00 PM",
+        "Saturday: 11:00 AM \u2013 8:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Altu's Ethiopian Cuisine",
+      "address": "1312 Michigan Ave, East Lansing, MI 48823",
+      "phone": "(517) 333-6295",
+      "lat": 42.7337249,
+      "lng": -84.5005528,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.7
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-02-22 15:42:33",
+            "text": "Loved my food.  Had the mild beef and the 4 veggies, rice and bread.  Would recommend checking out.",
+            "rating": 5
+          },
+          {
+            "time": "2021-10-02 11:11:17",
+            "text": "The food was so flavorful. Just the right amount of  spice. I loved everything we tried and the service was great. Our waitress, Chitapa, was awesome. She...",
+            "rating": 5
+          },
+          {
+            "time": "2020-09-17 16:35:27",
+            "text": "Delicious lamb stew! My boyfriend got the spicy and said it wasn't as spicy as he had thought. I loved the melody of flavors if you wrap the meat, rice and...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-26 17:09:25",
+            "text": "I've never had Ethiopian food before, but my husband rants and raves about it all the time. So last weekend when we were in Lansing, we decided to try it.  For those who are unfamiliar like I was, they really don't use utensils.  You can request them if you really want to, but I recommend diving in head first and eat like they do. They give you this sourdough spongy bread that you use to pick up your food (the menu explains it all).  The spices they used are amazing and reminded me of a cross between Indian and Thai spices. Everything we ordered was delicious.  We did a shareable of three veggies and two meats, all spicy of course. They have mild, too. But honestly, the spicy isn't overpowering. It's just enough to say hello.  Try at least ONE spicy thing just for the flavor. I can't wait to make up another excuse to go to Lansing and try more things from Altu's.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-05 20:41:19",
+            "text": "I am a big fan of Ethiopian food and this place is so good! The staff is also incredibly helpful in helping you plan what you are going to eat! They also do a wonderful job at catering to food allergies! If you are in the area I would definitely recommend eating here!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-30 09:51:10",
+            "text": "We had never had Ethiopian food before and wasn't sure exactly what to expect. We ordered the meat and veggie sampler platter so we could try as much as possible. Everything was so good! The spicy is pretty spicy if you don't like heat, probably a medium. Ask for hot sauce if you like it extra spicy. Our service was excellent!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-15 19:37:03",
+            "text": "They're busy on a Friday night, and rightfully so! Staff was friendly, ambiance is nice, but the food was great! I had the spicy chicken breast stew, and it had a great kick to it... It's ok to eat with your hands. ;)  Definitely coming back. :)",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-18 19:09:42",
+            "text": "If I could I'd eat from here every day. The spicy beef stew hits the spot like nothing else. The secret has got to be the care that goes into making it. The staff are always friendly and they know you after a few visits. I love coming back to Altu's.",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM \u2013 2:30 PM, 4:30 \u2013 9:00 PM",
+        "Wednesday: 11:00 AM \u2013 2:30 PM, 4:30 \u2013 9:00 PM",
+        "Thursday: 11:00 AM \u2013 2:30 PM, 4:30 \u2013 9:00 PM",
+        "Friday: 11:00 AM \u2013 2:30 PM, 4:30 \u2013 9:00 PM",
+        "Saturday: 11:00 AM \u2013 2:30 PM, 4:30 \u2013 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Baobab Fare",
+      "address": "6568 Woodward Ave, Detroit, MI 48202",
+      "phone": "(313) 265-3093",
+      "lat": 42.3700146,
+      "lng": -83.0729392,
+      "rating": {
+        "Yelp": 5.0,
+        "Google": 4.8
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-07 07:23:40",
+            "text": "This place was sooooo delicious! \n\nI was in Detroit from out of town and was recommended this place by the dance studio I was visiting. We placed a carry...",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-03 08:43:41",
+            "text": "I have wanted to check out Baobab Fare since I heard about an East African restaurant opening in Detroit. Due to COVID, it took me awhile to make it in,...",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-30 17:12:38",
+            "text": "If you looking for unique ethnic cuisine  this is the place for you.\n\nWhether your just wanting a drink, I highly recommend the hibiscus tea warming...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-05 14:50:42",
+            "text": "First time here was for my mom's birthday, her choice and I absolutely loved everything on the menu. I've been back several times since, so I know what I'm talking about.\n\nThe goat and chicken are falling off the bone tender, and the fish is grilled to perfection!!!\n\nAmbiance and decor is calming and beautiful. Love love love everything about this place!!!",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-10 15:20:39",
+            "text": "Hot darn it\u2019s good. I highly recommend the Intore with the Peanut-Stewed Spinach and Coconut Rice\u2014but I\u2019ve heard amazing things about the other options and dishes. I don\u2019t think you can go wrong here. If you\u2019re put off by the peanut in the Peanut-Stewed Spinach, it is pretty subtle and compliments the rest of the dish very well.\n\nAdditionally, great atmosphere and nice people. I\u2019ve dined in and done take out and both were very tasty.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-13 19:41:51",
+            "text": "Waited 20 minutes for my takeout order on the first visit, but food was good, so decided to give it another shot. Waited 30+ minutes the second time. Considering that this restaurant a) is not cheap, b) is very highly regarded, and c) has online ordering where you specify what time you're coming to pickup, I feel like the long wait time is not okay. Both times, the staff didn't bother to address/explain the delay. We ordered two signature dishes and made the order WAY in advance, so it's not like we were being difficult customers. I will say that the food has a comforting home-cooked feel and a special wholesome quality. I also appreciated that they honored my request to replace the rice with beans. However, we just don't have the time (or honestly, the patience) to wait half an hour for a takeout order these days. There are so many other exciting new restaurants in Detroit now, and we probably won't be returning to this one, unfortunately.",
+            "rating": 3
+          },
+          {
+            "time": "2021-12-19 05:00:55",
+            "text": "Oh my God, the kumuahana is incredible. The creamy, child corn salad, the warm comforting yellow beans, and the flame grilled chicken were nothing short of delightful.\n\nAnd they have PASSION FRUIT JUICE.\n\nI COULD NOT RECOMMEND THIS PLACE ENOUGH.\n\nI ate here for the second time tonight. My husband had the goat shank, and we also tried a side of the flash fried fish and the spinach with peanuts. Every single thing I have tasted here is incredible. It's more than just delicious- it's an experience. The spices are all so warm and comforting- especially appreciated in this chilly weather. The spiced coffee and avocado-passion fruit pudding is a wonderful way to end a meal. We also had a chance to speak with the owner who was very kind and obviously motivated to share his story and culture. From what I understood,  he thinks we Americans are living too fast, and this affects all aspects of our lives from raising children to enjoying food. He said that you have to put as much time into your food as the pleasure and quality you want to get out of it. Hearing the story of how the restaurant came to be was very interesting- I suggested that he write a cookbook that also tells his story, and/or even teach classes. I would LOVE to learn how to cook like this. If he decides to teach, I will be ready to learn.",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-05 19:07:33",
+            "text": "How can I put it? I guess I have to start with my thoughts on the location. When I first got to Detroit 3 years ago people told me I came at just the right time. Not too long ago the city had installed street lights and it seemed things were moving in a positive direction. I drove up and down Woodward and noticed this block had some shuttered businesses. I thought it was such a shame being so close to the truly inspiring Fischer building a few hundred feet away and having a desolate block such as this sitting here. I remember seeing that something had popped up, it had eye catching designs on the windows and seemed to be some kind of eatery and I paid it no mind until this place was mentioned in Eater Detroit as one of the city\u2019s up and coming gems. The branding is fantastic. The decor is inviting and sleek. The atmosphere is electric. The staff was very pleasant and there were smiles all around. It seemed like not only was this amazing corner spot being filled but it was occupied with an establishment that would be here to stay. Finally, we ordered our dishes. As excited as I was about the demeanor of the restaurant nothing could have prepared me for such an incredible disarming plate. I felt like I was back at home, I grew up eating Afro-Caribbean cuisine. This type of food was very similar to what I had in my youth but of course just a bit different. I had the marinated chicken with yellow beans, rice pilau, and plantains. The plantains were exceptional and clearly made by someone who knows what good plantains are supposed to taste like. The chicken was perfect. Flavorful, hot, and tender. I could easily eat the yellow beans every day and never tire of them. My partner had never tried anything like this and most of our meal was in silence, we were blown away. I\u2019m writing this no less than 15 minutes after we exited the restaurant. If you\u2019re wondering whether or not to go out in this (at the time) frigid February weather, put on your coat and boots. Warm up the car. Head to baobab fare and thank me later. One of the best restaurants in Detroit hands down and honestly I\u2019d say top three in the city. Look out, you got yourself a couple of new regulars.",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 11:00 AM \u2013 9:00 PM",
+        "Wednesday: 11:00 AM \u2013 9:00 PM",
+        "Thursday: 11:00 AM \u2013 9:00 PM",
+        "Friday: 11:00 AM \u2013 9:00 PM",
+        "Saturday: 11:00 AM \u2013 9:00 PM",
+        "Sunday: 11:00 AM \u2013 8:00 PM"
+      ]
+    },
+    {
+      "name": "Fork in Nigeria",
+      "address": "19228 Livernois, Detroit, MI 48221",
+      "phone": "(248) 764-0155",
+      "lat": 42.43336842917671,
+      "lng": -83.14140182541911,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.4
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-02-20 13:52:43",
+            "text": "First time tasting Nigerian food and loved it. The oxtails were nicely seasoned and the jolloff rice was great. Will most definitely be going back to try...",
+            "rating": 4
+          },
+          {
+            "time": "2022-02-24 16:46:41",
+            "text": "We had a pleasure to try this food truck downtown Royal Oak during Winterblast. I'm a fan of African food and Fork of Nigeria was no exception. \nThey have a...",
+            "rating": 4
+          },
+          {
+            "time": "2022-01-27 10:06:22",
+            "text": "Why don't we have 1/2 stars again? For me, I'd say 3.5 stars but I can't quite round it up to 4, to be honest. But let's get to the food!\n\nI've had Fork In...",
+            "rating": 3
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-08 20:59:56",
+            "text": "This is by far the most flavorful food I have ever tasted . Fork in Nigeria gives family vibes.\nnever having rude or impatient attitudes . I\u2019ve been a loyal customer since they first opened and I can honestly say it\u2019s 10 out of 10. No complaints\nKeep it up \ud83d\udc4d\ud83c\udffe",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-23 13:08:24",
+            "text": "The food at is exceptional! Very tasty and well prepared and you can chose among many menu options. I love the service at the place and the chef is so friendly .thank U Jess",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-15 18:16:26",
+            "text": "I have no words, but yet so many!! I'm putting myself on punishment for not trying it sooner. This food is amazing! I'm moving to Nigeria. That's it. It's settled. I'm moving.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-07 23:38:17",
+            "text": "I just love the Fufu with Egusi stew. It is so delicious.  Because I live so far away, I will get double orders. The staff are so very nice and friendly. You are amazing \ud83d\udc4f\ud83c\udffe \u2764\ufe0f",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-23 20:31:10",
+            "text": "One of the best places to get a touch of home through the food. Jess did an amazing job with  the egusi soup. It's definitely a place I'd like to find myself very often. \u2b50",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": null,
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: 12:00 \u2013 8:00 PM",
+        "Tuesday: 12:00 \u2013 8:00 PM",
+        "Wednesday: 12:00 \u2013 8:00 PM",
+        "Thursday: 12:00 \u2013 8:00 PM",
+        "Friday: 12:00 \u2013 8:00 PM",
+        "Saturday: 12:00 \u2013 8:00 PM",
+        "Sunday: 12:00 \u2013 8:00 PM"
+      ]
+    },
+    {
+      "name": "Yum Village",
+      "address": "6500 Woodward Ave, Detroit, MI 48202",
+      "phone": "(313) 334-6099",
+      "lat": 42.369378,
+      "lng": -83.072277,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.3
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2021-10-30 08:47:54",
+            "text": "I love the food here- it's nearly impossible to pick just one thing so we returned last night and I had the peanut stew and rice- just amazing and perfect...",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-18 13:03:49",
+            "text": "The food is Great!!!, but the service is lacking.\nOrdered online the day before for curbside pickup\nOnline instructions say knock on the Red side...",
+            "rating": 3
+          },
+          {
+            "time": "2021-10-22 19:56:04",
+            "text": "Absolutely amazing. This is my first experience eating African food & I just want more. I've had jerk chicken, but the Lemon Jerk Chicken was so well...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2021-07-28 17:22:43",
+            "text": "This food was amazing. It taste fresh. The customer service was amazing. They were friendly. I ordered online and had an easy no contact pick up. You do have the options for pick up I chose to walk in. It was great",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-04 14:13:22",
+            "text": "I work in the neighborhood and live down the street and I can honestly say NOBODY does it like Godwin.  He is humble, hungry, and honest when it comes to making sure his customers are happy and FULL.  I am a self proclaimed picky eater and he made sure my order was exactly how I like it - plain and simple but with all the flavor and spice you'd expect from this style of cuisine. Yum Village is my daily lunch now.",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-25 08:54:42",
+            "text": "The food was fantastic! I absolutely loved everything we got, and I can't wait to go back for more. One quick note, though, a couple people in our party found the food to be a bit too spicy for them, so be careful if you have a low spice tolerance! I didn't specify a great level that I'm aware of, so it may depend on what you order. The pickled cabbage even had a bit of spiciness to it which surprised us (but I loved).\n\nEverything I tried was great, so I recommend just trying whatever looks/sounds good to you!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-15 17:06:14",
+            "text": "I regret not coming sooner!!!\nIf I had of known that this food would hit my palate like this I would have never wasted so much time eating Thai food, lol.\nI tried several dishes, and the combination of a little sweet and salty and a pinch of spice made my Good Friday so good.\nThe customer service is pleasant and laid back, I will definitely be back.\nThank you!!!",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-28 20:28:00",
+            "text": "Had carryout curry chicken with turmeric rice. Delicious! Slightly sweet, savory and just a bit of spiciness. I came during the evening commute / rush hour traffic time of day and the business seemed to be fairly busy. Wait time was about 10-15 minutes. Very enjoyable atmosphere with cheerful decor.",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 12:00 AM",
+        "Tuesday: 11:00 AM \u2013 12:00 AM",
+        "Wednesday: 11:00 AM \u2013 12:00 AM",
+        "Thursday: 11:00 AM \u2013 12:00 AM",
+        "Friday: 11:00 AM \u2013 12:00 AM",
+        "Saturday: 11:00 AM \u2013 12:00 AM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "KG's African American Grill",
+      "address": "465 Inkster Rd, Garden City, MI 48135",
+      "phone": "(734) 367-2000",
+      "lat": 42.3141759,
+      "lng": -83.3111261,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.7
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2021-12-17 10:26:50",
+            "text": "My employer gave us an extra PTO day this year as a Cultural Exploration Day. Being a fan of history, travel, and good food, my goal was to combine them all...",
+            "rating": 5
+          },
+          {
+            "time": "2021-10-19 07:25:15",
+            "text": "My boyfriend recommended this place after trying it a few weeks ago, so I was excited when we ordered our food for lunch.\nWe ordered the curry chicken...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-13 19:09:21",
+            "text": "Well. This place is a gem. I was tired of eating the same stuff.. chicken,  seafood,  turkey,  seafood,  an occasional red meat. So I went to YELP! Where...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2021-11-26 08:00:02",
+            "text": "I love this place.  I could smell the food cooking from the parking lot.  The seasoning was perfect, the service is even better.  My only complaint is I have to drive nearly a half hour to get there. It's worth it though.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-13 22:19:09",
+            "text": "This place is CLEAN. I won't eat at a dirty place, no crumbs on the seats or on the floor that shows laziness. The staff is nice and  friendly. They welcomed me with \" this is her first time here\" \"hope you like it, come back\" I definitely will be back. I ordered oxtail and lamb stew with cabbage and mixed vegetables. Cabbage was crunchy yet soft and flavorful, the mixed vegetables were actually fresh vegetables, not the prepackaged frozen carrots and corn. I got. A baobo drink, which was sweety and creamy. Everything was delightful!  They honor Ramadan.  They offer desserts as well as a kids selection. Hope you enjoy thus place a such as I did!!!",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-27 19:07:15",
+            "text": "First time here, great Senegalese dishes- had the peanut butter stew, okra fish stew, cassava stew all served with rice. Oh and the fried plantains were great.  Delicious! Recommend.",
+            "rating": 5
+          },
+          {
+            "time": "2021-08-24 07:57:55",
+            "text": "The food was good and hearty portions. Very aromatic and fresh cooked hot. I've been trying to find a new place since covid and I found them by chance I did a upturn to place my order. I couldn't remember the juice I had before the one I got was the wrong one.  I will travel back just for my food. Try it for yourself.",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-19 19:16:50",
+            "text": "Top notch place & staff.\nThe food is incredible; made perfectly, flavorful and great selection.\nI adore this restaurant!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: 12:00 \u2013 9:00 PM",
+        "Tuesday: 12:00 \u2013 9:00 PM",
+        "Wednesday: 12:00 \u2013 9:00 PM",
+        "Thursday: 12:00 \u2013 9:00 PM",
+        "Friday: 12:00 \u2013 9:00 PM",
+        "Saturday: 12:00 \u2013 9:00 PM",
+        "Sunday: 12:00 \u2013 9:00 PM"
+      ]
+    },
+    {
+      "name": "Kola Restaurant & Ultra Lounge",
+      "address": "32523 Northwestern Hwy, Farmington, MI 48334",
+      "phone": "(248) 932-5652",
+      "lat": 42.52392,
+      "lng": -83.35179,
+      "rating": {
+        "Yelp": 3.0,
+        "Google": 4.2
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-06 20:03:12",
+            "text": "Food absolutely delicious!! Staff very nice.  Will definitely revisit. I hear the whole red snapper is delicious but they were out of all fish so we...",
+            "rating": 4
+          },
+          {
+            "time": "2021-12-04 07:53:54",
+            "text": "This is the place to be for happy hour, live music and African food. I just learned of this place and will definitely be going back soon!!",
+            "rating": 5
+          },
+          {
+            "time": "2021-03-08 22:15:04",
+            "text": "Bartender-Waitress is terrible. They should not have the bartender serving tables because she is clueless on the menu. She didn't know anything! We...",
+            "rating": 2
+          }
+        ],
+        "Google": [
+          {
+            "time": "2021-01-13 21:06:05",
+            "text": "Amazing atmosphere!  Great food. Love it here.\n\nUPDATE (01/21) - AWESOME.  I was selected to participated in the shipping program where they ship menu items to you.  They apply some form of coolant (like dry ice) and cold packs and ship to you via UPS.  I got it shortly after shipping and it was still nearly ice cold.  Wonderfully packed.  Food was vacuum sealed and labeled.  Just as good as in the restaurant!  Thanks, Kola!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-10 06:54:56",
+            "text": "Food: 7/10. The jollof was really good and the jerk chicken as well. What lowers the score is the meat pie. It was either old or came from the frozen section. It did not taste fresh at all and was very bland.\n\nAtmosphere: 5/10: There was some jams that was played but it was blaring loud! I could barely have a conversation with the people I came with. We basically had to yell at each other. The lighting was weird and also the set up of the restaurant.  It was kind of confusing when we walked in because there was no host.\n\nCustomer Service: 3/10. The waitress made very rude comments. Please understand that not every enjoys \u201csarcasm.\u201d She was rude and made us feel uncomfortable. No bill was provided which I thought was odd. I\u2019ve never been to a restaurant that did not provide a bill.  When someone from my party went to the register to request it, no one was there. Also the waitress kept sniffling and I saw her coughing multiple times. Please stay at home if you\u2019re sick. I think we should know that by now after dealing with a pandemic!",
+            "rating": 3
+          },
+          {
+            "time": "2022-04-16 11:17:07",
+            "text": "The vibe was nice at Kolas! The team was kind, attentive, and fun.  The food came out hot and fresh.  The drinks were to our liking.  This wasn\u2019t our first time and we will be back.  Music by Mello is always a treat.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-18 15:52:40",
+            "text": "Man, I\u2019ve been wanting to try African food for quite some time. So for my birthday my sister gifted me money for a African meal. So I did my research and found this restaurant. It was only three minutes away, I  was so excited .I didn\u2019t read the reviews which was a  huge mistake.However, I ordered my food came home to what I thought would be a birthday treat.The food was old reheated and cold.I was so DISAPPOINTED..",
+            "rating": 1
+          },
+          {
+            "time": "2022-01-02 16:54:31",
+            "text": "Went to the Bob celebration. I went to NYE 2021-2022 and the egusi soup was terrific.  My Dominica friend loved it but she ate it with a fork.  That is a big no-no.",
+            "rating": 4
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 5:00 \u2013 10:00 PM",
+        "Thursday: 5:00 \u2013 10:00 PM",
+        "Friday: 5:00 PM \u2013 12:00 AM",
+        "Saturday: 5:00 PM \u2013 2:00 AM",
+        "Sunday: 2:00 \u2013 7:00 PM"
+      ]
+    }
+  ],
+  "latin": [
+    {
+      "name": "Encuentro Latino",
+      "address": "228 W Michigan Ave, Ypsilanti, MI 48197",
+      "phone": "(734) 483-1727",
+      "lat": 42.24129,
+      "lng": -83.61569,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.7
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2021-12-06 16:23:54",
+            "text": "You must have to try this place!! The food is awesome!! The tortilla de harina is one of the best in the menu. I love this restaurante!!",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-14 07:45:52",
+            "text": "The Guatemalan Breakfast is a meal that I crave on a regular basis.  I love bringing friends abd family here because there's nowhere else like it in the...",
+            "rating": 5
+          },
+          {
+            "time": "2021-06-16 14:11:29",
+            "text": "I love Encuentro Latino. First off, they had me at pupusas and fried plantains, which are 2 of my favorite foods ever. And they seal the deal with great...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-07 07:57:58",
+            "text": "What an amazing little place! It may not look like much on the outside, but the food is incredible and extremely authentic. The waitress is so kind and generous with her time. Love this place!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-15 08:27:01",
+            "text": "I had the fried fish, it was delicious and service was excellent. Usually I rarely post reviews, but I have to acknowledge the quality of the food I had here! Excellent!",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-11 12:24:53",
+            "text": "What an incredible spot! Definitely my favorite restaurant I have found in the A\u00b2/Ypsi area. One of the most affordable spots around and the food is always phenomenal.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-06 16:49:46",
+            "text": "The staff was amazing! The food was delicious! And it was inexpensive. Highly recommended!",
+            "rating": 5
+          },
+          {
+            "time": "2021-08-14 23:31:14",
+            "text": "Their food is simply the best!! This is my new favorite restaurant. I 100% recommend! Their prices are amazing and so is their food. There is nothing to not like about it. And the people there are just so nice! 10/10",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$",
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 8:00 PM",
+        "Tuesday: 11:00 AM \u2013 3:00 PM",
+        "Wednesday: 11:00 AM \u2013 8:00 PM",
+        "Thursday: 11:00 AM \u2013 8:00 PM",
+        "Friday: 11:00 AM \u2013 9:00 PM",
+        "Saturday: 9:00 AM \u2013 8:00 PM",
+        "Sunday: 9:00 AM \u2013 8:00 PM"
+      ]
+    },
+    {
+      "name": "Frita Batidos",
+      "address": "117 W Washington St, Ann Arbor, MI 48104",
+      "phone": "(734) 761-2882",
+      "lat": 42.2803651,
+      "lng": -83.7491532,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.7
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-02 18:49:59",
+            "text": "Super excellent and filling food!! Comfort food for sure, tasty, customizable and fairly priced. \n\nIt is first-come first serve seating both indoor and...",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-23 08:24:53",
+            "text": "3.75 stars.  Frita Batidos is definitely something different.  While some would simply call it a glorified burger joint with noticeable Cuban influences, I...",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-05 09:33:46",
+            "text": "The long picnic style tables are accommodating for any party size. Walk in, stand in line, order, and then the food and drinks are delivered to the table....",
+            "rating": 4
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-20 19:08:44",
+            "text": "Absolutely loved this restaurant!  Passing through on a business trip and a colleague recommended we stop here.   I had the chicken Frita with an egg and the salsa toppers.  Everything had great flavor and was freshly made.  I tried the guac. and the fried plantains...both delicious!  Inside was clean and bright. Staff was very polite.  It was really busy, but we did not wait too long for the food.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-17 19:08:28",
+            "text": "Casual flair and a unique Cuban menu make this spot great.  Everything we tried was delicious and different from other Ann Arbor offerings.  Would recommend stopping by when you're looking for food just off the main street scene.",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-25 17:00:14",
+            "text": "The best burgers!! They have lots of options to fit any preference. The fries are great. We loved the churro. Staff is always friendly. It is loud on weekend nights. You order before you sit down and then by the time you get through line there will be a table open. They have it done to a science there! The seats are all benches and not handicap friendly or baby friendly.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-09 13:20:04",
+            "text": "My son is home for Spring Break and we drove to Ann Arbor to have an AMAZING lunch!  We loved the Frita and the lime fries.  Miranda was very welcoming and Evan was super attentive to our needs.  We can\u2019t wait to bring the rest of the family. Thanks for having us!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-15 22:57:10",
+            "text": "Updated review:\nWe have been coming here for 8 years now and past few months we had very bad experience everytime. I am not sure if it was just us, but I appreciate someone taking time to talk to us and trying to address issue. Today\u2019s order was made perfectly hence I am updating this from 1 star to 5 star again. Hopefully they continue to provide good service like they did in past.",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 11:00 PM",
+        "Tuesday: 11:00 AM \u2013 11:00 PM",
+        "Wednesday: 11:00 AM \u2013 11:00 PM",
+        "Thursday: 11:00 AM \u2013 11:00 PM",
+        "Friday: 11:00 AM \u2013 12:00 AM",
+        "Saturday: 11:00 AM \u2013 12:00 AM",
+        "Sunday: 11:00 AM \u2013 11:00 PM"
+      ]
+    },
+    {
+      "name": "Isalita",
+      "address": "341 E Liberty St, Ste 2, Ann Arbor, MI 48104",
+      "phone": "(734) 213-7400",
+      "lat": 42.2794618,
+      "lng": -83.7444065,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.4
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-02-21 14:15:02",
+            "text": "I went on the first day of restaurant week for lunch and it was so popular! We were lucky to get there early and get a table but there were people waiting...",
+            "rating": 4
+          },
+          {
+            "time": "2022-02-19 16:07:54",
+            "text": "Stopped in for dinner on a Sunday evening. We were greeted by a host and seated right away. The ambiance is casual, but nice. We started with the chips and...",
+            "rating": 4
+          },
+          {
+            "time": "2022-03-11 17:17:26",
+            "text": "Stopped by for dinner during restaunt week last month. The place was quite busy and there was a long wait. The restaurant week deal was 4 courses. We got...",
+            "rating": 4
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-07 11:51:45",
+            "text": "The food was good, but it wasn't anything to write home about. I felt that each dish was missing one or two elements that would have led to them really standing out. Additionally, some components of dishes actively made the dining experience more difficult. The tortillas served with the queso fundido are a bit too small, and I felt that one or two more would be a welcome addition.\n\nThe service was acceptable, and it wasn't bad in any particular way. However I would have appreciated if it was slightly more attentive. But then again maybe this goes a bit against their upscale street food ethos.",
+            "rating": 3
+          },
+          {
+            "time": "2021-11-14 19:25:14",
+            "text": "After several visits, I have been shown fast and friendly service by staff that appear happy to be there. Excellent menu and drink options served quickly and friendly. I've added it to one of my regular stops.",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-13 21:08:19",
+            "text": "Good food, watered down drinks!\nThe day we went for dinner there was only one bartender for the entire restaurant, so my drink arrived after I finished my food(~1hr from order). The food was good and they have good vegetarian options as well!\nI would go back when it's not busy and they get their bar situation sorted.",
+            "rating": 4
+          },
+          {
+            "time": "2022-01-25 14:04:27",
+            "text": "Seems to be the only non-overrated restaurant in Ann Arbor. Not amazing but overall an enjoyable environment to sit in on a weekend night, the best I've experienced so far in AA. Service is very good. Draws a comely crowd as well.",
+            "rating": 4
+          },
+          {
+            "time": "2021-07-23 14:27:11",
+            "text": "I was able to order some gluten free nachos, which were good. They didn't list olives as something that came on the nachos but there were A LOT on there. Which was fine, just FYI to others. I also had a frozen blood orange margarita that was really good. Our server, Ahmed, was very kind and gracious while juggling a lot of work during a busy time. He deserves a raise!",
+            "rating": 4
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: Closed",
+        "Wednesday: 4:00 \u2013 9:00 PM",
+        "Thursday: 4:00 \u2013 9:00 PM",
+        "Friday: 12:00 \u2013 10:00 PM",
+        "Saturday: 12:00 \u2013 10:00 PM",
+        "Sunday: 12:00 \u2013 9:00 PM"
+      ]
+    },
+    {
+      "name": "Pilar's Tamales",
+      "address": "2261 W Liberty St, Ann Arbor, MI 48103",
+      "phone": "(734) 929-4161",
+      "lat": 42.273649,
+      "lng": -83.777535,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.8
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2021-04-29 17:55:54",
+            "text": "We tried both the pupusas (chicken and black bean) and tamales (chicken & cheese and spicy pork), and everything was delicious. Once I called in the order,...",
+            "rating": 5
+          },
+          {
+            "time": "2019-12-21 08:56:04",
+            "text": "100% recommend this place. I'm sad it took me sooooo long to find enter this place. \nIt is so friendly, happy, cheery! I mean this place is amazing. \nThe...",
+            "rating": 5
+          },
+          {
+            "time": "2021-09-15 09:55:14",
+            "text": "Pilar's and Pilar is such an Ann Arbor gem. First, the food is always so well-prepared, authentic, and delicious. I especially love the pupusas and whatever...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-11 08:59:44",
+            "text": "Perfectly encapsulates what great food should be. Every dish is superb and made with great care, ingredients are fresh and top notch, and the staff are genuinely kind and loving people. Every item on the menu will treat you well, but make sure to always get plantains because they put every other plantain in Michigan to shame.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-18 10:38:52",
+            "text": "Delicious, friendly and had great vegan options. I had this on my list to try for a while and glad I finally made a visit. I placed my order when I got there and didn't have to wait very long. The salad and sauce provided a great compliment to filling tamales. I will be back!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-23 14:21:34",
+            "text": "Absolutely delicious. Lots of gluten free options. Thank you so much for making wonderful and safe options. Highly recommend.",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-18 17:52:06",
+            "text": "Pilar's has the best tamales in town! The prices are reasonable and the customer service is excellent.",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-23 23:49:55",
+            "text": "Pretty interesting! They had some vegan tamales, the black bean one was to die for! Really enjoyed the Fried Yuca root too. The rest of our food was pretty alright, but definitely going back for those two!",
+            "rating": 4
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$",
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 12:00 \u2013 6:00 PM",
+        "Wednesday: 12:00 \u2013 6:00 PM",
+        "Thursday: 12:00 \u2013 6:00 PM",
+        "Friday: 12:00 \u2013 6:00 PM",
+        "Saturday: 12:00 \u2013 5:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Aventura",
+      "address": "216 E Washington St, Ann Arbor, MI 48104",
+      "phone": "(734) 369-3153",
+      "lat": 42.280283,
+      "lng": -83.746494,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.5
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-03-23 05:53:59",
+            "text": "From the moment we walked in until we left- it was an expensive for the senses. All the employees were kind, knowledgeable and quick to help/refill/bring...",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-20 17:19:08",
+            "text": "Spain in Michigan... YES!! Aventura has been on my bucket list and finally got to try it tonight. I recommend reservations as this place gets busy. \n\nWe...",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-05 10:07:32",
+            "text": "Beautiful restaurant with tons of great tapas. The atmosphere was perfect for an intimate date night or small group of friends. \nThe pineapple and goat...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-12 06:28:37",
+            "text": "The ambience here is overall very good, though some evenings it can be almost too crowded and noisy for conversation at the table.\nFood is good, though don't expect large servings. I've had better food at similar prices and similar serving sizes, but we still return regularly to this restaurant before operas/plays at U of M. Nice wine selection run by a knowledgeable wine director, whose recommendations were spot on with our meal.",
+            "rating": 4
+          },
+          {
+            "time": "2022-04-08 21:11:14",
+            "text": "Right away the brick wall with moss sets the tone for a great night out. Our waiter was knowledgable and friendly and steered us towards the paella. We ordered the paella, which was delicious, and our favourite was the octopus. The goat cheese and pineapple dish was also very good. The drinks were fantastic and strong. This was a great restaurant for an anniversary dinner!",
+            "rating": 5
+          },
+          {
+            "time": "2021-02-25 15:50:40",
+            "text": "The food is absolutely excellent here! Especially the churros with the chocolate and caramel sauce (I think it was caramel). I like that it\u2019s tapas style but you gotta make sure to have lots of money with you to go here because it is not cheap! Seriously you can easily rack up a high bill just off of appetizers. Overall I will highly recommend this restaurant!!",
+            "rating": 4
+          },
+          {
+            "time": "2022-02-13 21:02:01",
+            "text": "Great food and drinks, I would like to come back with an empty stomach for their paellas. Would recommend and definitely go back. Minor hitch - there was no hostess for about 6 minutes since we arrived. But she quickly took care of us once she was back.",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-28 18:50:38",
+            "text": "I had been waiting to go to Aventura for years, hearing good things from friends and coworkers, and finally found time to go. The biggest thing that I had heard from friends was to stick to the tapas and skip the paella. As a paella fan, I decided that I needed to try it. This proved to be a mistake\n\nWe got the Valentine's Day menu, which included a few tapas (you don't get to choose), and the lobster paella, followed by a dessert.\n\nOne thing to note here is that the drinks and wine selection are really excellent. Can't fault them there.\n\nThe tapas we received were really disappointing. The bruschetta tasted like the tomatoes came from a can, there was another forgettable vegetarian dish, and the third dish was a fried cheese dish. On the whole,  definitely nothing to write home about.\n\nThe most unfortunate portion of the entire meal was the lobster paella. The rice in the paella was mostly flavorless, the calamari was decent, but the lobster was extremely overcooked. I've never had lobster this dry. It was a real shame.\n\nThe dessert was some chocolate souffle, fine but also forgettable.\n\nFor the price, the quality of food is not there. Aventura is all form and no function. It's regrettable because the space is gorgeous and I really wanted to like the food. Spanish food is really fantastic. I've been to Spain. I've had Tapas. It's really not that difficult to do well. Aventura simply was not. I hope that they can work to improve their menu because they are onto a good concept, just severely lacking in execution.",
+            "rating": 2
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$$",
+        "Google": 3
+      },
+      "opening_hours": [
+        "Monday: 3:00 \u2013 11:00 PM",
+        "Tuesday: 3:00 \u2013 11:00 PM",
+        "Wednesday: 3:00 \u2013 11:00 PM",
+        "Thursday: 3:00 \u2013 11:00 PM",
+        "Friday: 3:00 \u2013 11:00 PM",
+        "Saturday: 10:00 AM \u2013 11:00 PM",
+        "Sunday: 10:00 AM \u2013 11:00 PM"
+      ]
+    },
+    {
+      "name": "Latin American Cuban Cuisine",
+      "address": "2269 Ellsworth Rd, Ypsilanti, MI 48197",
+      "phone": "(734) 961-7452",
+      "lat": 42.2304216,
+      "lng": -83.6460776,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.9
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-04-19 16:04:23",
+            "text": "This place is amazing!  Tried 3 dishes and all of them were great. The service was extremely friendly and prices were cheap.  \n\nAuthentic all the way.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-19 18:42:17",
+            "text": "This is my second time here and I love it even more. My first time was on door dash but this time I went inside. It's super clean and the young lady at the...",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-09 08:49:33",
+            "text": "Delicious Cuban food that is my new go-to! The guava pastry is amazingly similar to Porto's guava pastry, but delicious in its own right - same goes for the...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-01-17 19:18:28",
+            "text": "I very much enjoyed this place. Having moved from Miami to Detroit, it was great to have something familiar and authentic. The ambience was enjoyable and the food was delicious, with flavorful coffee to finish. The manager came out to speak with us and the wait staff was super friendly. I highly recommend this location for anyone looking to enjoy authentic Cuban food.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-09 12:49:56",
+            "text": "If you haven\u2019t tried this place yet you\u2019re sleeping \ud83d\ude02 the food is amazing, the place is always clean, the manager and staff has always been super nice and cool, and overall it\u2019s just a real chill place. I pretty much go everyday for lunch and the yucca fries \ud83d\udd25\ud83d\udd25\ud83d\udd25\ud83e\udd29. Prices are very reasonable to folks go check em out I promise you won\u2019t be disappointed in the flavor \ud83d\udc4c\ud83c\udffe",
+            "rating": 5
+          },
+          {
+            "time": "2021-11-16 00:36:12",
+            "text": "Great Cuban food in Michigan. The long wait for their opening was well worth it. The food was served very hot and perfect. I haven\u2019t had a real authentic Cuban food nowhere in Michigan just like you would in Miami. I highly recommend. The owner is very nice and friendly as well as the staff. They\u2019re very welcoming and very attentive. I wish I could give more than five stars",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-01 14:36:02",
+            "text": "We REALLY enjoyed our meal here; delicious food and a very inviting atmosphere plus the whole place is super clean. We\u2019ll 1000% be back! \ud83d\ude42",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-17 14:32:32",
+            "text": "Amazing fresh delicious.....plus a bunch of other descriptive words that I can't come up with right now.....this place is outstanding!!!!  Best Cuban food I've had!!!  Which isn't a ton....but oh my!!!!  We started with the plantain chips with rojo sauce....when the server delivered it he said let me know if you need more sauce ......YES PLEASE!!!! We also had the Yuka fries....I loved them!!!  The cilantro sauce was was great!!!  I had their steak sandwich....super tasty!!!  The bread was fresh....everything was perfect!!!  My husband ordered some beef dish that came with rice and that is what hit all the flavors out of the park!!!!  We will most definitely be back here.....and you all should go support them and see what their food is all about!!!!  We also had the sugarcane juice.....I highly recommend it!!!  Perfect drink to go with the amazing flavors!!!!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": null,
+        "Google": 2
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 10:00 PM",
+        "Tuesday: 11:00 AM \u2013 10:00 PM",
+        "Wednesday: 11:00 AM \u2013 10:00 PM",
+        "Thursday: 11:00 AM \u2013 10:00 PM",
+        "Friday: 11:00 AM \u2013 10:00 PM",
+        "Saturday: 11:00 AM \u2013 10:00 PM",
+        "Sunday: 11:00 AM \u2013 10:00 PM"
+      ]
+    },
+    {
+      "name": "Cosa Sabrosa",
+      "address": "2070 W Stadium Blvd, Ann Arbor, MI 48109",
+      "phone": "(734) 678-2620",
+      "lat": 42.27199,
+      "lng": -83.77442,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.6
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-01-05 18:30:36",
+            "text": "Excellent tacos. Had pastor with grilled pineapple, carnitas with pickled onions and some crispy mahi mahi, very well done!",
+            "rating": 5
+          },
+          {
+            "time": "2021-09-10 15:13:39",
+            "text": "\"OMG YUM!\" \n\nWhat I texted my husband as I ate my lunch downstairs in the dining room and he had his in his office doing some work. \"I KNOW!\" he responded....",
+            "rating": 5
+          },
+          {
+            "time": "2021-07-22 18:57:22",
+            "text": "Stopped by and had the Birria Tacos and watermelon water. The entre includes 3 tacos plus rice and beans, salsa and lemon. The tacos and the watermelon...",
+            "rating": 3
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-02 13:32:43",
+            "text": "This is place is absolutely amazing!  I had their chicken quesadillas and it was my first time patronizing this establishment.  I am officially a loyal customer.  I've already began telling people that I know to visit. Their very nice and the good is great. I was having a bit of a headache so I went to my car to wait for the food to be prepared and one of their king employees brought my food to me and offered very friendly conversation.  I love it!",
+            "rating": 5
+          },
+          {
+            "time": "2022-03-31 16:59:31",
+            "text": "Today was my first time trying this place, I ordered a fish burrito. Once home I opened the foil to find a massive burrito predominantly filled with beans and rice, only a very tiny little strip of white fish (only one) in the center. Who wants a big bean and rice burrito for $15?? I will never return to this place. What a ripoff!",
+            "rating": 1
+          },
+          {
+            "time": "2022-01-30 10:59:19",
+            "text": "Hands down one of the best meals in Ann Arbor!  Just go!  By the time your eating your meal, the world shrinks down to this amazing place where you realize that the food is better than anything you've had in a long time!  Chef Jeff is the man!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-27 06:37:15",
+            "text": "Another delicious dinner from Cosa Sabrosa! After living in the Southwest we have craved quality and authentic Mexican food here in Michigan & found it at Cosa Sabrosa! Chef Jeff has this menu dialed in!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-20 17:02:49",
+            "text": "I ordered a couple fish tacos and smoked chicken Pozole yesterday... it was so good I ordered three fish tacos before I headed into work today!! Everything is so delicious and fresh. I highly recommend the verde sauce. I can't wait to come here for live music and tacos one day. This place came recommended to me by the owner's father, when I served him at another local restaurant. I told him I would stop by the next day, and I am so so glad I did!",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": null,
+        "Google": null
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 11:30 AM \u2013 8:00 PM",
+        "Wednesday: 11:30 AM \u2013 8:00 PM",
+        "Thursday: 11:30 AM \u2013 8:00 PM",
+        "Friday: 11:30 AM \u2013 9:00 PM",
+        "Saturday: 11:30 AM \u2013 9:00 PM",
+        "Sunday: Closed"
+      ]
+    },
+    {
+      "name": "Antonio's Coney Island",
+      "address": "2896 Washtenaw Rd, Ypsilanti, MI 48197",
+      "phone": "(734) 905-7321",
+      "lat": 42.2499749,
+      "lng": -83.6570647,
+      "rating": {
+        "Yelp": 4.5,
+        "Google": 4.7
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2022-04-08 15:48:39",
+            "text": "Absolutely delicious Central American + Honduran food! Loved the breakfast food when I first visited with my mom about 3 years ago, as well as the fried...",
+            "rating": 5
+          },
+          {
+            "time": "2021-02-28 17:00:31",
+            "text": "Ummm, I love everything about an amazing Honduras spot moonlighting as a Coney Island restaurant. I mean yes, they have the regular stuff but the Honduran...",
+            "rating": 5
+          },
+          {
+            "time": "2021-04-14 08:37:00",
+            "text": "Really great food at a good price. I was kinda taken aback by the employees not wearing a mask but I got my food to go so it wasn't that big of a deal to me.",
+            "rating": 4
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-04-14 18:22:52",
+            "text": "Food was excellent. Watch the prices however - the chips and guac we ordered that were a few dollars on the menu magically became $8 when the bill came. When asked, the reason cited was \"inflation.\" I'd be happy to pay whatever you want to charge if it wasn't a surprise when the bill comes.",
+            "rating": 2
+          },
+          {
+            "time": "2021-11-18 14:23:18",
+            "text": "Every meal I have ordered in or gotten for takeout is delicious and a good value. There are also vegan and vegetarian dishes available. Some of the dishes are very simple and others are exotic with special touches. There is something for everybody,",
+            "rating": 5
+          },
+          {
+            "time": "2020-09-18 15:45:59",
+            "text": "Surprised on how good it was",
+            "rating": 3
+          },
+          {
+            "time": "2021-12-25 07:43:12",
+            "text": "We will definitely be going back.  Great food.  The waitress made us feel like family.",
+            "rating": 5
+          },
+          {
+            "time": "2021-12-12 19:38:11",
+            "text": "The food was great. I had chicken ceaser salad and my husband had a meat omelet.  Both were very good.",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$",
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: Closed",
+        "Tuesday: 10:00 AM \u2013 7:00 PM",
+        "Wednesday: 10:00 AM \u2013 7:00 PM",
+        "Thursday: 10:00 AM \u2013 7:00 PM",
+        "Friday: 10:00 AM \u2013 8:00 PM",
+        "Saturday: 9:00 AM \u2013 8:00 PM",
+        "Sunday: 9:00 AM \u2013 6:00 PM"
+      ]
+    },
+    {
+      "name": "Chichi's Ann Arbor",
+      "address": "1107 S University Ave, Ann Arbor, MI 48104",
+      "phone": "",
+      "lat": 42.275245,
+      "lng": -83.735616,
+      "rating": {
+        "Yelp": 5.0,
+        "Google": 4.4
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2021-06-10 12:51:48",
+            "text": "I love Chichi's! The food is amazing and flavorful. I highly recommend the yuca fries and fried plantains. The sauces are amazing. I had the pleasure of...",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2022-03-03 01:35:57",
+            "text": "Crust is great. The texture is perfect, the taste is very good. The sauce is good. The proportions are very good. However, the flavor is lacking, both in intensity and complexity. Overall the slice of pizza is good, but it's missing the flavors of NY and New England pizza.",
+            "rating": 3
+          },
+          {
+            "time": "2022-02-04 11:40:46",
+            "text": "I never experienced Joe's in New York, but in terms of Ann Arbor pizza it's pretty good! A bit pricey, but at this point if you get food at AA you should expect that. My go to if I'm super hungry is two supreme slices, though a slice of cheese does the trick of you're on a budget. On Friday or Saturday nights, expect the place to be packed. Masks are mandated (as with most on campus establishments). Overall I recommend.",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-03 15:29:19",
+            "text": "Best Pizza! There you go! I said it. Michigan especially Ann Arbor hosting New York\u2019s famous Joe\u2019s Pizza!!! Go and have your slice of Fresh Mozzarella!",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-31 09:12:05",
+            "text": "Came from Ohio looking for a quick bite to eat & we were highly impressed! Perfect slice of pizza, amazing prices we will definitely be back! One of the best slices of pizza I\u2019ve had",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-12 22:29:57",
+            "text": "Pretty decent drunk Pizza. The slices are thin and the line is long but it tastes very good.",
+            "rating": 3
+          }
+        ]
+      },
+      "price": {
+        "Yelp": null,
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 12:00 AM",
+        "Tuesday: 11:00 AM \u2013 2:00 AM",
+        "Wednesday: 11:00 AM \u2013 2:00 AM",
+        "Thursday: 11:00 AM \u2013 3:00 AM",
+        "Friday: 11:00 AM \u2013 3:00 AM",
+        "Saturday: 11:00 AM \u2013 3:00 AM",
+        "Sunday: 12:00 PM \u2013 12:00 AM"
+      ]
+    },
+    {
+      "name": "Tmaz Taqueria",
+      "address": "3182 Packard St, Ann Arbor, MI 48108",
+      "phone": "(734) 477-6089",
+      "lat": 42.2449934,
+      "lng": -83.6965964,
+      "rating": {
+        "Yelp": 4.0,
+        "Google": 4.5
+      },
+      "reviews": {
+        "Yelp": [
+          {
+            "time": "2021-11-23 15:39:43",
+            "text": "This place changed my life. All the tacos and pupusas are amazing. So many options and definitely the best vegetarian tacos I've had. Staff is also so nice!...",
+            "rating": 5
+          },
+          {
+            "time": "2022-02-02 14:42:39",
+            "text": "Great in person or pickup. Do not grubhub. \n\nOrdered at 9:20pm on a Saturday night when they were supposed to close at 10:45. Got a call from Grubhub at...",
+            "rating": 2
+          },
+          {
+            "time": "2022-04-11 19:00:09",
+            "text": "opciones veganas y de buena calidad, ped\u00ed tacos de hongos al pastor y taquitos de poroto negro y est\u00e1 delicioso todo.\n Taquitos que le hacen bien al alma\u200d",
+            "rating": 5
+          }
+        ],
+        "Google": [
+          {
+            "time": "2021-11-19 17:25:08",
+            "text": "Service was phenomenal! Felt welcomed from the moment I walked through the door. Food is good. Thank you!",
+            "rating": 5
+          },
+          {
+            "time": "2022-04-05 22:23:41",
+            "text": "I've been coming to this place for years. The staff is amazing. If I could give them 6 stars I would. They will take the time to explain to you everything on their menu including homemade gorditas, and pupusas.",
+            "rating": 5
+          },
+          {
+            "time": "2021-08-31 11:05:13",
+            "text": "This place has some of the best tacos Ive ever had. They also have a nice variety of vegetarian options which I always appreciate.",
+            "rating": 5
+          },
+          {
+            "time": "2022-01-21 19:35:08",
+            "text": "The staff was great-very hospitable and welcoming. The food was ok, a bit expensive for my liking. I would seek cheaper options if I'm ever in the area.",
+            "rating": 2
+          },
+          {
+            "time": "2021-09-01 21:00:37",
+            "text": "I get chips with pico and veggie tacos from here every week and they're ALWAYS FIRE.  Super friendly staff. Highly recommend ",
+            "rating": 5
+          }
+        ]
+      },
+      "price": {
+        "Yelp": "$",
+        "Google": 1
+      },
+      "opening_hours": [
+        "Monday: 11:00 AM \u2013 10:00 PM",
+        "Tuesday: 11:00 AM \u2013 10:00 PM",
+        "Wednesday: 11:00 AM \u2013 10:00 PM",
+        "Thursday: 11:00 AM \u2013 10:00 PM",
+        "Friday: 11:00 AM \u2013 11:00 PM",
+        "Saturday: 11:00 AM \u2013 11:00 PM",
+        "Sunday: Closed"
+      ]
+    }
   ]
 }
