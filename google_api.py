@@ -8,6 +8,8 @@ from secret import *
 
 ###########################################################################################
 # get place request
+
+
 def find_place(place="Ann Arbor"):
     print(f"Finding {place} requests")
     base_url = "https://maps.googleapis.com/maps/api/place/findplacefromtext/json"
@@ -59,6 +61,15 @@ def parse_nearby(nearby_json, food_style="Null", food_type="Null"):
         info = {}
         info["name"] = place["name"]
         info["place_id"] = place["place_id"]
+        try:
+            info["opening_hours"] = place["opening_hours"]["open_now"]
+        except:
+            info["opening_hours"] = "Null"
+
+        try:
+            info["html"] = place['photos'][0]["html_attributions"][0]
+        except:
+            info["html"] = "Null"
         info["lat"] = place["geometry"]["location"]["lat"]
         info["lng"] = place["geometry"]["location"]["lng"]
         info["rating"] = place["rating"]

@@ -1,4 +1,5 @@
 from flask import Flask, request, render_template
+from google_api import *
 import json
 from util import *
 import objects as objs
@@ -51,6 +52,32 @@ def search():
         food_type=food_type,
         search_str=search_string,
         restaurants=content,
+    )
+
+
+@app.route("/nearby_search", methods=["GET", "POST"])
+def nearby_search():
+
+    try:
+        lat = request.form["lat"]
+        lng = request.form["lng"]
+    except:
+        lat = ""
+        lng = ""
+
+    try:
+        if not lat and not lng:
+            raise Exception
+        resp = find_nearby(lat, lng)
+        content = parse_nearby(resp)
+    except:
+        content = ""
+
+    return render_template(
+        "nearby_search.html",
+        lat=lat,
+        lng=lng,
+        content=content,
     )
 
 

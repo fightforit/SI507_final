@@ -1,0 +1,43 @@
+<html>
+
+<head>
+    <title>Nearby Search</title>
+</head>
+
+<body>
+    <h1>Nearby Search</h1>
+    <p>
+        Input the latitude and longtitude you want:
+    </p>
+    <!-- create a two inputs for city and state for searching -->
+    <form action="/nearby_search" method="post">
+        <input type="text" name="lat" placeholder="Latitude (e.g. 42.28)"> <br>
+        <input type="text" name="lng" placeholder="Longtitude (e.g. -83.74)"> <br>
+        <input type="submit" value="Search">
+    </form>
+    <p>
+        Return to the <a href="/">home page</a>
+    </p>
+    <p>
+        {% if content != "" %}
+        {% for c in content %}
+    <ul>
+        <li>{{c["name"]}}</li>
+        <ul>
+            <li> Opening Now: {{c["opening_hours"]}}</li>
+            <li> Rating: {{c["rating"]}}</li>
+            <li> Price Level: {{c["price_level"]}}</li>
+            <li> Address: {{c["formatted_address"]}}</li>
+            <li> Photos: {% autoescape off %}
+                {{ c["html"] }}
+                {% endautoescape %}</li>
+        </ul>
+    </ul>
+    {% endfor %}
+    {% endif %}
+    </p>
+
+
+</body>
+
+</html>
