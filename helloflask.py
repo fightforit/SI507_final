@@ -75,11 +75,11 @@ def stats():
             for restaurant in place.restaurants[search_string][food_type]:
                 yelp_rating += restaurant["rating"]["Yelp"]
                 google_rating += restaurant["rating"]["Google"]
+            num_restaurant = len(place.restaurants[search_string][food_type])
             stats_food_type.append(
                 [food_type,
-                    round(yelp_rating /
-                          len(place.restaurants[search_string][food_type]), 2),
-                    round(google_rating / len(place.restaurants[search_string][food_type]), 2)])
+                    round(yelp_rating / num_restaurant, 2),
+                    round(google_rating / num_restaurant, 2)])
     except:
         content = ""
 
