@@ -59,24 +59,22 @@ def search():
 def nearby_search():
 
     try:
-        lat = request.form["lat"]
-        lng = request.form["lng"]
+        place = request.form["place"]
     except:
-        lat = ""
-        lng = ""
+        place = ""
 
     try:
-        if not lat and not lng:
+        if not place:
             raise Exception
-        resp = find_nearby(lat, lng)
+        resp = find_place(place)['candidates'][0]['geometry']['location']
+        resp = find_nearby(resp["lat"], resp["lng"])
         content = parse_nearby(resp)
     except:
         content = ""
 
     return render_template(
         "nearby_search.html",
-        lat=lat,
-        lng=lng,
+        place=place,
         content=content,
     )
 

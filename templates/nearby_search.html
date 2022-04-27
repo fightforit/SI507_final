@@ -130,7 +130,6 @@
             font-size: 30px;
             font-weight: 600;
         }
-
     </style>
 </head>
 
@@ -139,12 +138,11 @@
 
         <h1 class="search">Nearby Search</h1>
         <p class="hint">
-            Input the latitude and longtitude you want:
+            Input the place you want:
         </p>
         <!-- create a two inputs for city and state for searching -->
         <form class="form" action="/nearby_search" method="post">
-            <input class="input" type="text" name="lat" placeholder="Latitude (e.g. 42.28)"> <br>
-            <input class="input" type="text" name="lng" placeholder="Longtitude (e.g. -83.74)"> <br>
+            <input class="input" type="text" name="place" placeholder="Place"> <br>
             <input class="submit" type="submit" value="Search">
         </form>
         <p class="return">
