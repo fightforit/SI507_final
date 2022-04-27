@@ -2,18 +2,77 @@
 
 <head>
     <title>About</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mukta&display=swap');
+
+        * {
+            font-family: 'Lobster', cursive;
+
+        }
+
+        body {
+            margin: 0;
+            background: url(./static/img/bg.jpg);
+            background-size: cover;
+            background-position: center center;
+        }
+
+        a {
+            color: #111;
+        }
+
+        .content {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .content h1 {
+            font-size: 40px;
+        }
+
+        .content p {
+            font-size: 20px;
+            font-family: cursive;
+        }
+
+        .center {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            width: 500px;
+            text-align: center;
+        }
+
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 20px;
+        }
+
+    </style>
 </head>
 
 <body>
-    <h1>About</h1>
-    <p>
-        This website was created for the {{course}} class in {{semester}}. The purpose of this website is to provide a
-        place to search for the restaurants for users to eat.
-    </p>
-</body>
+    <div class="content">
+        <div class="center">
+            <h1>About</h1>
+            <p>
+                This website was created for the {{course}} class in {{semester}}. The purpose of this website is to
+                provide
+                a
+                place to search for the restaurants for users to eat.
+            </p>
+        </div>
 
-<footer>
-    Return to the <a href="/">home page</a>
-</footer>
+        <footer>
+            Return to the <a href="/">home page</a>
+        </footer>
+    </div>
+</body>
 
 </html>

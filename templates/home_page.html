@@ -2,22 +2,120 @@
 
 <head>
     <title>Home Page</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+        * {
+            font-family: 'Lobster', cursive;
+        }
+
+        body {
+            margin: 0;
+            background: url(./static/img/bg.jpg);
+            background-size: cover;
+            background-position: center center;
+        }
+
+        a {
+            color: #111;
+        }
+
+        .content {
+            width: 100%;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+
+            flex-direction: column;
+        }
+
+        .title {
+            font-size: 28px;
+        }
+
+        .subtitle {
+            font-size: 20px;
+        }
+
+        .buttons {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .btn-wrap {
+            margin: 0 10px;
+        }
+
+        footer {
+            margin-top: 30px;
+            text-align: center;
+            font-size: 20px;
+        }
+
+        /* CSS */
+        .button-74 {
+            background-color: #fbeee0;
+            border: 2px solid #422800;
+            border-radius: 30px;
+            box-shadow: #422800 4px 4px 0 0;
+            color: #422800;
+            cursor: pointer;
+            display: inline-block;
+            font-weight: 600;
+            font-size: 18px;
+            padding: 0 18px;
+            line-height: 50px;
+            text-align: center;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+        }
+
+        .button-74:hover {
+            background-color: #fff;
+        }
+
+        .button-74:active {
+            box-shadow: #422800 2px 2px 0 0;
+            transform: translate(2px, 2px);
+        }
+
+        @media (min-width: 768px) {
+            .button-74 {
+                min-width: 120px;
+                padding: 0 25px;
+            }
+        }
+
+    </style>
 </head>
 
 <body>
-    <h1>{{course}} Final Project, {{semester}}</h1>
-    <h2>Contents</h2>
-    <ul>
-        <li><a href="/about">About</a></li>
-        <li><a href="/search">Search</a></li>
-        <li><a href="/stats">Statistics</a></li>
-        <li><a href="/nearby_search">Nearby Search</a></li>
-    </ul>
+    <div class="content">
+        <div class="title">
+            <h1>{{course}} Final Project, {{semester}}</h1>
+        </div>
+        <div class="subtitle">
+            <h2>Contents</h2>
+        </div>
+        <div class="buttons">
+            <div class="btn-wrap"><a class="button-74" href="/about">About</a></div>
+            <div class="btn-wrap"><a class="button-74" href="/search">Search</a></div>
+            <div class="btn-wrap"><a class="button-74" href="/stats">Statistics</a></div>
+            <div class="btn-wrap"><a class="button-74" href="/nearby_search">Nearby Search</a></div>
+        </div>
+        <footer>
+            Creator: Cheng-Hsun Lu <br>
+            Contact: <a href="mailto:lchsun@umich.edu"> Email </a> <br>
+        </footer>
+    </div>
+
 </body>
 
-<footer>
-    Creator: Cheng-Hsun Lu <br>
-    Contact: <a href="mailto:lchsun@umich.edu"> Email </a> <br>
-</footer>
+
 
 </html>

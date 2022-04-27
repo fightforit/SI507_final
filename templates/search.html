@@ -2,67 +2,203 @@
 
 <head>
     <title>Search</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mukta&display=swap');
+
+        * {
+            font-family: 'Lobster', cursive;
+        }
+
+        a {
+            color: #111;
+        }
+
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            background: url(./static/img/bg.jpg);
+            background-size: cover;
+            background-position: center center;
+
+            background-attachment: fixed;
+            overflow: auto;
+        }
+
+        .content {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .search {
+            margin-top: 50px;
+            font-size: 40px;
+        }
+
+        .hint {
+            font-family: cursive;
+            font-size: 20px;
+        }
+
+        .form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .form .input {
+            background-color: #fff;
+            border: 2px solid #422800;
+            border-radius: 30px;
+            color: #422800;
+            display: inline-block;
+            font-weight: 600;
+            font-size: 18px;
+            padding: 0 18px;
+            line-height: 50px;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+            margin-right: 10px;
+        }
+
+
+        .form .submit {
+            background-color: #fbeee0;
+            border: 2px solid #422800;
+            border-radius: 30px;
+            box-shadow: #422800 4px 4px 0 0;
+            color: #422800;
+            cursor: pointer;
+            display: inline-block;
+            font-weight: 600;
+            font-size: 18px;
+            padding: 0 18px;
+            line-height: 50px;
+            text-align: center;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+        }
+
+        .form .submit:hover {
+            background-color: #fff;
+        }
+
+        .form .submit:active {
+            box-shadow: #422800 2px 2px 0 0;
+            transform: translate(2px, 2px);
+        }
+
+        .return {
+            font-size: 20px;
+        }
+
+        .result {
+            width: 60%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 80px;
+        }
+
+        .l1-ul {
+            margin: 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .result li {
+            font-family: cursive;
+            line-height: 1.5;
+        }
+
+        .result ul {
+            font-family: cursive;
+            margin-bottom: 5px;
+        }
+
+        .result .name {
+            font-size: 30px;
+            font-weight: 600;
+        }
+
+    </style>
 </head>
 
 <body>
-    <h1>Search</h1>
-    <p>
-        Input the place you want:
-    </p>
-    <!-- create a two inputs for city and state for searching -->
-    <form action="/search" method="post">
-        <input type="text" name="city" placeholder="City (e.g. Ann Arbor)"> <br>
-        <input type="text" name="state" placeholder="State (e.g. MI)"> <br>
-        <input type="text" name="food_type" placeholder="Food Type (e.g. Korean)">
-        <input type="submit" value="Search">
-    </form>
-    <p>
-        Return to the <a href="/">home page</a>
-    </p>
-    <p>
-        <!-- if food_type is not "" print the food_type using html-->
-        {% if food_type != "" and city != "" and state != "" %}
-        <b>Searching for {{food_type}} restaurants in {{city}}, {{state}}</b> <br>
-    <ul>
-        {% for restaurant in restaurants %}
-        {% for key, value in restaurant.items() %}
+    <div class="content">
+        <h1 class="search">Search</h1>
+        <p class="hint">
+            Input the place you want:
+        </p>
+        <!-- create a two inputs for city and state for searching -->
+        <form class="form" action="/search" method="post">
+            <input class="input" type="text" name="city" placeholder="City (e.g. Ann Arbor)"> <br>
+            <input class="input" type="text" name="state" placeholder="State (e.g. MI)"> <br>
+            <input class="input" type="text" name="food_type" placeholder="Food Type (e.g. Korean)">
+            <input class="submit" type="submit" value="Search">
+        </form>
+        <p class="return">
+            Return to the <a href="/">home page</a>
+        </p>
 
-        {% if key == "name" %}
-        <br>
-        <li><b>{{value}}</b></li>
+        <div class="result">
+            <p>
+                <!-- if food_type is not "" print the food_type using html-->
+                {% if food_type != "" and city != "" and state != "" %}
+            <p>♥ Searching for {{food_type}} restaurants in {{city}}, {{state}} ♥</p>
+            <ul class="l1-ul">
+                {% for restaurant in restaurants %}
+                {% for key, value in restaurant.items() %}
 
-        {% elif key == "reviews" %}
-        <ul>
-            <li>Reviews: <br> </li>
-        </ul>
-        {% for _, reviews in value.items() %}
-        {% for val in reviews %}
-        <ul>
-            <ul>
-                {% for k, v in val.items() %}
-                {% if k in ["time"] %}
-                <li>{{v}} <br> </li>
-                {% elif k in ["text"] %}
-                {{v}} <br>
+                {% if key == "name" %}
+                <br>
+                <li class="name"><b>{{value}}</b></li>
+
+                {% elif key == "reviews" %}
+                <ul>
+                    <li>Reviews: <br> </li>
+                </ul>
+                {% for _, reviews in value.items() %}
+                {% for val in reviews %}
+                <ul>
+                    <ul>
+                        {% for k, v in val.items() %}
+                        {% if k in ["time"] %}
+                        <li>{{v}} <br> </li>
+                        {% elif k in ["text"] %}
+                        {{v}} <br>
+                        {% else %}
+                        {{k.capitalize()}}: {{v}} <br>
+                        {% endif %}
+                        {% endfor %}
+                    </ul>
+                </ul>
+                {% endfor %}
+                {% endfor %}
+
                 {% else %}
-                {{k.capitalize()}}: {{v}} <br>
+                <ul>
+                    <li>{{key.capitalize()}}: {{value}} <br> </li>
+                </ul>
                 {% endif %}
                 {% endfor %}
+                {% endfor %}
             </ul>
-        </ul>
-        {% endfor %}
-        {% endfor %}
+            {% endif %}
+            </p>
+        </div>
 
-        {% else %}
-        <ul>
-            <li>{{key.capitalize()}}: {{value}} <br> </li>
-        </ul>
-        {% endif %}
-        {% endfor %}
-        {% endfor %}
-    </ul>
-    {% endif %}
-    </p>
+    </div>
+
 
 </body>
 

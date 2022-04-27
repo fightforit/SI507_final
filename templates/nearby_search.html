@@ -2,40 +2,177 @@
 
 <head>
     <title>Nearby Search</title>
+
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Lobster&family=Mukta&display=swap');
+
+        * {
+            font-family: 'Lobster', cursive;
+        }
+
+
+        body {
+            width: 100%;
+            height: 100%;
+            margin: 0;
+            background: url(./static/img/bg.jpg);
+            background-size: cover;
+            background-position: center center;
+
+            background-attachment: fixed;
+            overflow: auto;
+        }
+
+        a {
+            color: #111;
+        }
+
+        .content {
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+        }
+
+        .search {
+            margin-top: 50px;
+            font-size: 40px;
+        }
+
+        .hint {
+            font-family: cursive;
+            font-size: 20px;
+        }
+
+        .form {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .form .input {
+            background-color: #fff;
+            border: 2px solid #422800;
+            border-radius: 30px;
+            color: #422800;
+            display: inline-block;
+            font-weight: 600;
+            font-size: 18px;
+            padding: 0 18px;
+            line-height: 50px;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+            margin-right: 10px;
+        }
+
+
+        .form .submit {
+            background-color: #fbeee0;
+            border: 2px solid #422800;
+            border-radius: 30px;
+            box-shadow: #422800 4px 4px 0 0;
+            color: #422800;
+            cursor: pointer;
+            display: inline-block;
+            font-weight: 600;
+            font-size: 18px;
+            padding: 0 18px;
+            line-height: 50px;
+            text-align: center;
+            text-decoration: none;
+            user-select: none;
+            -webkit-user-select: none;
+            touch-action: manipulation;
+        }
+
+        .form .submit:hover {
+            background-color: #fff;
+        }
+
+        .form .submit:active {
+            box-shadow: #422800 2px 2px 0 0;
+            transform: translate(2px, 2px);
+        }
+
+        .return {
+            font-size: 20px;
+        }
+
+        .result {
+            width: 60%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            margin-bottom: 80px;
+        }
+
+        .l1-ul {
+            margin: 20px 0;
+            padding: 0;
+            list-style: none;
+        }
+
+        .result li {
+            font-family: cursive;
+            line-height: 1.5;
+        }
+
+        .result ul {
+            font-family: cursive;
+            margin-bottom: 5px;
+        }
+
+        .result .name {
+            font-size: 30px;
+            font-weight: 600;
+        }
+
+    </style>
 </head>
 
 <body>
-    <h1>Nearby Search</h1>
-    <p>
-        Input the latitude and longtitude you want:
-    </p>
-    <!-- create a two inputs for city and state for searching -->
-    <form action="/nearby_search" method="post">
-        <input type="text" name="lat" placeholder="Latitude (e.g. 42.28)"> <br>
-        <input type="text" name="lng" placeholder="Longtitude (e.g. -83.74)"> <br>
-        <input type="submit" value="Search">
-    </form>
-    <p>
-        Return to the <a href="/">home page</a>
-    </p>
-    <p>
-        {% if content != "" %}
-        {% for c in content %}
-    <ul>
-        <li>{{c["name"]}}</li>
-        <ul>
-            <li> Opening Now: {{c["opening_hours"]}}</li>
-            <li> Rating: {{c["rating"]}}</li>
-            <li> Price Level: {{c["price_level"]}}</li>
-            <li> Address: {{c["formatted_address"]}}</li>
-            <li> Photos: {% autoescape off %}
-                {{ c["html"] }}
-                {% endautoescape %}</li>
-        </ul>
-    </ul>
-    {% endfor %}
-    {% endif %}
-    </p>
+    <div class="content">
+
+        <h1 class="search">Nearby Search</h1>
+        <p class="hint">
+            Input the latitude and longtitude you want:
+        </p>
+        <!-- create a two inputs for city and state for searching -->
+        <form class="form" action="/nearby_search" method="post">
+            <input class="input" type="text" name="lat" placeholder="Latitude (e.g. 42.28)"> <br>
+            <input class="input" type="text" name="lng" placeholder="Longtitude (e.g. -83.74)"> <br>
+            <input class="submit" type="submit" value="Search">
+        </form>
+        <p class="return">
+            Return to the <a href="/">home page</a>
+        </p>
+        <div class="result">
+
+            <p>
+                {% if content != "" %}
+                {% for c in content %}
+            <ul class="l1-ul">
+                <li class="name"><b>{{c["name"]}}</b></li>
+                <ul>
+                    <li> Opening Now: {{c["opening_hours"]}}</li>
+                    <li> Rating: {{c["rating"]}}</li>
+                    <li> Price Level: {{c["price_level"]}}</li>
+                    <li> Address: {{c["formatted_address"]}}</li>
+                    <li> Photos: {% autoescape off %}
+                        {{ c["html"] }}
+                        {% endautoescape %}
+                    </li>
+                </ul>
+            </ul>
+            {% endfor %}
+            {% endif %}
+            </p>
+        </div>
+    </div>
 
 
 </body>
