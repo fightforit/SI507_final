@@ -23,3 +23,4 @@ Final project, Restaurant Searching Engine!
         - ```About```: a brief description of this project
         - ```Search```: a search page for user to enter the restaurant type (e.g. japanese, korean, and etc) in a city that an user wants to search. After entering that, the page will show the corresponding restaurants’ information on it. The data is either from the caches or newly requested from Yelp or Google API. If requested from API, it requires some time to processed.
         - ```Stats```: a statistic page for showing the average rating of each restaurant type in a city. Enter the city you want to see, then a average rating from Yelp and Google will be shown in both a table and a plot format.
+        - ``Nearby search``: a page for searching the restaurants nearby a place.
